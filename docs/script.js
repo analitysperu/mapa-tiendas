@@ -18,7 +18,7 @@ fetch("./LOCFULL.json")
   .then(response => response.json())
   .then(data => {
     allData = data;
-    drawMarkers(''); // optional: draw all markers initially
+    drawMarkers(''); // draw all markers initially
   })
   .catch(err => console.error('Error loading JSON:', err));
 
@@ -26,7 +26,7 @@ fetch("./LOCFULL.json")
 function drawMarkers(searchText) {
   cluster.clearLayers();
 
-    let firstMatch = null; 
+  let firstMatch = null; 
 
   allData.forEach(p => {
     if (p.LAT && p.LON && p.Nombre) {
@@ -49,17 +49,26 @@ function drawMarkers(searchText) {
 
   map.addLayer(cluster);
 
-
+  // Zoom to first match if search, otherwise default view
   if (firstMatch) {
     map.setView(firstMatch, 12);
-  } else if (! searchText) {
-      map.setView([-10, -76], 6);
+  } else if (!searchText) {
+    map.setView([-10, -76], 6);
   }
-  
 }
 
-// **Button search listener**
-document.getElementById('searchBtn').addEventListener('click', () => {
+// Function to run the search
+function runSearch() {
   const searchValue = document.getElementById('nameFilter').value.trim();
   drawMarkers(searchValue);
+}
+
+// Button search listener
+document.getElementById('searchBtn').addEventListener('click', runSearch);
+
+// Enter key triggers search
+document.getElementById('nameFilter').addEventListener('keydown', (e) => {
+  if (e.key === 'Enter') {
+    runSearch();
+  }
 });
