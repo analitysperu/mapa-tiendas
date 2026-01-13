@@ -3,15 +3,19 @@ body {
   font-family: "Segoe UI", Arial, sans-serif;
   background-color: #f0f2f5;
   margin: 0;
-  padding: 20px;
+  padding: 0;
+  padding: 10px;
   color: #333;
+  overflow: hidden;
 }
 
 .container {
-  max-width: 1100px;
+  height: 100vh;
+  max-width: none;
   margin: 0 auto;
   background: #ffffff;
   padding: 25px 30px 35px;
+  flex-direction: column;
   border-radius: 12px;
   box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
 }
@@ -19,7 +23,7 @@ body {
 /* Header */
 h3 {
   margin-top: 0;
-  margin-bottom: 20px;
+
   font-size: 24px;
   font-weight: 600;
   color: #222;
@@ -68,7 +72,7 @@ h3 {
 
 /* Map */
 #map {
-  height: 550px;
+  height: 750px;
   width: 100%;
   border-radius: 10px;
   overflow: hidden;
