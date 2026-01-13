@@ -13,7 +13,7 @@ const cluster = L.markerClusterGroup();
 let allData = [];
 
 // Load JSON data
-fetch('LOCFULL.json')
+fetch("./LOCFULL.json")
   .then(response => response.json())
   .then(data => {
     allData = data;
