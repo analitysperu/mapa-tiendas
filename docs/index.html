@@ -4,85 +4,15 @@
   <meta charset="UTF-8">
   <title>Mapa de tiendas</title>
 
-  <!-- Leaflet -->
-  <link
-    rel="stylesheet"
-    href="https://unpkg.com/leaflet/dist/leaflet.css"
-  />
+  <!-- Leaflet CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
 
-  <!-- MarkerCluster -->
-  <link
-    rel="stylesheet"
-    href="https://unpkg.com/leaflet.markercluster/dist/MarkerCluster.css"
-  />
-  <link
-    rel="stylesheet"
-    href="https://unpkg.com/leaflet.markercluster/dist/MarkerCluster.Default.css"
-  />
+  <!-- MarkerCluster CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster/dist/MarkerCluster.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster/dist/MarkerCluster.Default.css" />
 
-  <style>
-    body {
-      font-family: "Segoe UI", Arial, sans-serif;
-      background-color: #f4f6f8;
-      margin: 0;
-      padding: 30px;
-      color: #333;
-    }
-
-    .container {
-      max-width: 1100px;
-      margin: 0 auto;
-      background: #ffffff;
-      padding: 20px 25px 30px;
-      border-radius: 10px;
-      box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
-    }
-
-    h3 {
-      margin-top: 0;
-      margin-bottom: 15px;
-      font-size: 22px;
-      font-weight: 600;
-    }
-
-    .search-box {
-      margin-bottom: 15px;
-    }
-
-    .search-box input {
-      width: 100%;
-      max-width: 320px;
-      padding: 10px 12px;
-      font-size: 14px;
-      border-radius: 6px;
-      border: 1px solid #ccc;
-      outline: none;
-      transition: border-color 0.2s, box-shadow 0.2s;
-    }
-
-    .search-box input:focus {
-      border-color: #4a90e2;
-      box-shadow: 0 0 0 2px rgba(74, 144, 226, 0.2);
-    }
-
-    #map {
-      height: 550px;
-      width: 100%;
-      border-radius: 8px;
-      overflow: hidden;
-      border: 1px solid #ddd;
-    }
-
-    @media (max-width: 600px) {
-      body {
-        padding: 15px;
-      }
-
-      h3 {
-        font-size: 20px;
-      }
-    }
-  </style>
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="./style.css">
 </head>
 <body>
 
@@ -91,11 +21,8 @@
 
     <!-- Name filter -->
     <div class="search-box">
-      <input
-        type="text"
-        id="nameFilter"
-        placeholder="Buscar por nombre..."
-      >
+      <input type="text" id="nameFilter" placeholder="Buscar por nombre...">
+      <button id="searchBtn">Buscar</button>
     </div>
 
     <!-- Map -->
@@ -106,6 +33,5 @@
   <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
   <script src="https://unpkg.com/leaflet.markercluster/dist/leaflet.markercluster.js"></script>
   <script src="./script.js"></script>
-
 </body>
 </html>
