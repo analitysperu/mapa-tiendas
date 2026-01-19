@@ -25,3693 +25,3813 @@
     "Nombre": "tienda5"
   },
   {
+    "LAT": -9.147288,
+    "LON": -78.509956,
+    "Nombre": "tienda6"
+  },
+  {
     "LAT": -12.27883535,
     "LON": -76.86786245,
-    "Nombre": "tienda6"
+    "Nombre": "tienda7"
   },
   {
     "LAT": -6.7523997,
     "LON": -79.8446604,
-    "Nombre": "tienda7"
+    "Nombre": "tienda8"
   },
   {
     "LAT": -6.749113,
     "LON": -79.8499575,
-    "Nombre": "tienda8"
+    "Nombre": "tienda9"
   },
   {
     "LAT": -12.26613948,
     "LON": -76.87974721,
-    "Nombre": "tienda9"
+    "Nombre": "tienda10"
   },
   {
     "LAT": -13.5320932,
     "LON": -71.9180494,
-    "Nombre": "tienda10"
+    "Nombre": "tienda11"
   },
   {
     "LAT": -12.1150112,
     "LON": -77.0183627,
-    "Nombre": "tienda11"
+    "Nombre": "tienda12"
   },
   {
     "LAT": -5.1875446,
     "LON": -80.6402043,
-    "Nombre": "tienda12"
+    "Nombre": "tienda13"
   },
   {
     "LAT": -12.1084468,
     "LON": -77.0180351,
-    "Nombre": "tienda13"
+    "Nombre": "tienda14"
   },
   {
     "LAT": -5.1813045,
     "LON": -80.6498964,
-    "Nombre": "tienda14"
+    "Nombre": "tienda15"
+  },
+  {
+    "LAT": -10.6040278,
+    "LON": -75.3816111,
+    "Nombre": "tienda16"
   },
   {
     "LAT": -12.1058407,
     "LON": -77.0182252,
-    "Nombre": "tienda15"
+    "Nombre": "tienda17"
   },
   {
     "LAT": -5.1861011,
     "LON": -80.6317327,
-    "Nombre": "tienda16"
+    "Nombre": "tienda18"
   },
   {
     "LAT": -6.4948514,
     "LON": -76.3556479,
-    "Nombre": "tienda17"
+    "Nombre": "tienda19"
   },
   {
     "LAT": -12.1060342,
     "LON": -77.0188032,
-    "Nombre": "tienda18"
+    "Nombre": "tienda20"
   },
   {
     "LAT": -10.687103,
     "LON": -76.2586996,
-    "Nombre": "tienda19"
+    "Nombre": "tienda21"
+  },
+  {
+    "LAT": -11.092413,
+    "LON": -77.595195,
+    "Nombre": "tienda22"
   },
   {
     "LAT": -12.102541,
     "LON": -77.0208831,
-    "Nombre": "tienda20"
+    "Nombre": "tienda23"
   },
   {
     "LAT": -6.5000123,
     "LON": -76.353768,
-    "Nombre": "tienda21"
+    "Nombre": "tienda24"
   },
   {
     "LAT": -6.7727619,
     "LON": -79.8128865,
-    "Nombre": "tienda22"
+    "Nombre": "tienda25"
   },
   {
     "LAT": -10.6861362,
     "LON": -76.2570589,
-    "Nombre": "tienda23"
+    "Nombre": "tienda26"
   },
   {
     "LAT": -6.7728907,
     "LON": -79.8083734,
-    "Nombre": "tienda24"
+    "Nombre": "tienda27"
   },
   {
     "LAT": -12.08560986,
     "LON": -76.90171973,
-    "Nombre": "tienda25"
+    "Nombre": "tienda28"
   },
   {
     "LAT": -6.5103864,
     "LON": -76.3624699,
-    "Nombre": "tienda26"
+    "Nombre": "tienda29"
   },
   {
     "LAT": -10.6897514,
     "LON": -76.2611278,
-    "Nombre": "tienda27"
+    "Nombre": "tienda30"
   },
   {
     "LAT": -8.1028391,
     "LON": -79.0113187,
-    "Nombre": "tienda28"
+    "Nombre": "tienda31"
   },
   {
     "LAT": -6.7739091,
     "LON": -79.8143648,
-    "Nombre": "tienda29"
+    "Nombre": "tienda32"
   },
   {
     "LAT": -11.0951418,
     "LON": -77.5948624,
-    "Nombre": "tienda30"
+    "Nombre": "tienda33"
   },
   {
     "LAT": -17.9974534,
     "LON": -70.2419406,
-    "Nombre": "tienda31"
+    "Nombre": "tienda34"
   },
   {
     "LAT": -11.0985073,
     "LON": -77.5958802,
-    "Nombre": "tienda32"
+    "Nombre": "tienda35"
   },
   {
     "LAT": -8.0240426,
     "LON": -79.0639725,
-    "Nombre": "tienda33"
+    "Nombre": "tienda36"
   },
   {
     "LAT": -12.06796329,
     "LON": -76.94649202,
-    "Nombre": "tienda34"
+    "Nombre": "tienda37"
+  },
+  {
+    "LAT": -9.075375,
+    "LON": -78.575538,
+    "Nombre": "tienda38"
   },
   {
     "LAT": -12.07427666,
     "LON": -76.9628713,
-    "Nombre": "tienda35"
+    "Nombre": "tienda39"
   },
   {
     "LAT": -8.0374345,
     "LON": -79.0601045,
-    "Nombre": "tienda36"
+    "Nombre": "tienda40"
   },
   {
     "LAT": -12.1181369,
     "LON": -76.9979732,
-    "Nombre": "tienda37"
+    "Nombre": "tienda41"
   },
   {
     "LAT": -12.1635986,
     "LON": -76.9549247,
-    "Nombre": "tienda38"
+    "Nombre": "tienda42"
   },
   {
     "LAT": -12.09600056,
     "LON": -76.98844309,
-    "Nombre": "tienda39"
+    "Nombre": "tienda43"
   },
   {
     "LAT": -12.1122196,
     "LON": -77.0133044,
-    "Nombre": "tienda40"
+    "Nombre": "tienda44"
   },
   {
     "LAT": -12.1635326,
     "LON": -76.9544226,
-    "Nombre": "tienda41"
+    "Nombre": "tienda45"
   },
   {
     "LAT": -11.1078357,
     "LON": -77.5952243,
-    "Nombre": "tienda42"
+    "Nombre": "tienda46"
   },
   {
     "LAT": -12.1075238,
     "LON": -77.0108159,
-    "Nombre": "tienda43"
+    "Nombre": "tienda47"
   },
   {
     "LAT": -17.9873955,
     "LON": -70.2338696,
-    "Nombre": "tienda44"
+    "Nombre": "tienda48"
   },
   {
     "LAT": -6.7467287,
     "LON": -79.8358469,
-    "Nombre": "tienda45"
+    "Nombre": "tienda49"
   },
   {
     "LAT": -12.1635326,
     "LON": -76.9544226,
-    "Nombre": "tienda46"
+    "Nombre": "tienda50"
   },
   {
     "LAT": -17.9861003,
     "LON": -70.2270541,
-    "Nombre": "tienda47"
+    "Nombre": "tienda51"
   },
   {
     "LAT": -12.1635326,
     "LON": -76.9544226,
-    "Nombre": "tienda48"
+    "Nombre": "tienda52"
   },
   {
     "LAT": -12.0906173,
     "LON": -77.0613033,
-    "Nombre": "tienda49"
+    "Nombre": "tienda53"
   },
   {
     "LAT": -9.0957266,
     "LON": -78.5635515,
-    "Nombre": "tienda50"
+    "Nombre": "tienda54"
   },
   {
     "LAT": -12.0974364,
     "LON": -77.0130404,
-    "Nombre": "tienda51"
+    "Nombre": "tienda55"
   },
   {
     "LAT": -5.1890425,
     "LON": -80.6663022,
-    "Nombre": "tienda52"
+    "Nombre": "tienda56"
   },
   {
     "LAT": -11.0774404,
     "LON": -77.5980759,
-    "Nombre": "tienda53"
+    "Nombre": "tienda57"
   },
   {
     "LAT": -17.9963562,
     "LON": -70.2219246,
-    "Nombre": "tienda54"
+    "Nombre": "tienda58"
   },
   {
     "LAT": -12.1635326,
     "LON": -76.9544226,
-    "Nombre": "tienda55"
+    "Nombre": "tienda59"
   },
   {
     "LAT": -11.8420785,
     "LON": -77.1040411,
-    "Nombre": "tienda56"
+    "Nombre": "tienda60"
   },
   {
     "LAT": -5.1754239,
     "LON": -80.6753289,
-    "Nombre": "tienda57"
+    "Nombre": "tienda61"
   },
   {
     "LAT": -12.1607397,
     "LON": -76.9545849,
-    "Nombre": "tienda58"
+    "Nombre": "tienda62"
   },
   {
     "LAT": -11.8414077,
     "LON": -77.104619,
-    "Nombre": "tienda59"
+    "Nombre": "tienda63"
+  },
+  {
+    "LAT": -12.0597918,
+    "LON": -77.13274,
+    "Nombre": "tienda64"
   },
   {
     "LAT": -5.1730361,
     "LON": -80.6803917,
-    "Nombre": "tienda60"
+    "Nombre": "tienda65"
   },
   {
     "LAT": -3.7399845,
     "LON": -73.241165,
-    "Nombre": "tienda61"
+    "Nombre": "tienda66"
   },
   {
     "LAT": -6.7614091,
     "LON": -79.8477612,
-    "Nombre": "tienda62"
+    "Nombre": "tienda67"
   },
   {
     "LAT": -10.9417423,
     "LON": -77.6475407,
-    "Nombre": "tienda63"
+    "Nombre": "tienda68"
+  },
+  {
+    "LAT": -6.5089093,
+    "LON": -76.3474171,
+    "Nombre": "tienda69"
   },
   {
     "LAT": -12.0827923,
     "LON": -77.0669712,
-    "Nombre": "tienda64"
+    "Nombre": "tienda70"
   },
   {
     "LAT": -11.9923421,
     "LON": -77.0817578,
-    "Nombre": "tienda65"
+    "Nombre": "tienda71"
   },
   {
     "LAT": -5.1742047,
     "LON": -80.6604663,
-    "Nombre": "tienda66"
+    "Nombre": "tienda72"
   },
   {
     "LAT": -12.15281818,
     "LON": -76.98940251,
-    "Nombre": "tienda67"
+    "Nombre": "tienda73"
   },
   {
     "LAT": -12.1076533,
     "LON": -77.026323,
-    "Nombre": "tienda68"
+    "Nombre": "tienda74"
   },
   {
     "LAT": -11.8638833,
     "LON": -77.0691333,
-    "Nombre": "tienda69"
+    "Nombre": "tienda75"
+  },
+  {
+    "LAT": -5.1648399,
+    "LON": -80.6505849,
+    "Nombre": "tienda76"
   },
   {
     "LAT": -12.071729,
     "LON": -77.0613033,
-    "Nombre": "tienda70"
+    "Nombre": "tienda77"
   },
   {
     "LAT": -9.0806942,
     "LON": -78.5809657,
-    "Nombre": "tienda71"
+    "Nombre": "tienda78"
   },
   {
     "LAT": -6.7221112,
     "LON": -79.8923971,
-    "Nombre": "tienda72"
+    "Nombre": "tienda79"
   },
   {
     "LAT": -13.5287076,
     "LON": -71.9386629,
-    "Nombre": "tienda73"
+    "Nombre": "tienda80"
   },
   {
     "LAT": -6.4915936,
     "LON": -76.3559956,
-    "Nombre": "tienda74"
+    "Nombre": "tienda81"
   },
   {
     "LAT": -12.006874,
     "LON": -77.0762789,
-    "Nombre": "tienda75"
+    "Nombre": "tienda82"
   },
   {
     "LAT": -9.0845173,
     "LON": -78.574954,
-    "Nombre": "tienda76"
+    "Nombre": "tienda83"
   },
   {
     "LAT": -11.1008372,
     "LON": -77.5958545,
-    "Nombre": "tienda77"
+    "Nombre": "tienda84"
   },
   {
     "LAT": -13.5292443,
     "LON": -71.9355354,
-    "Nombre": "tienda78"
+    "Nombre": "tienda85"
   },
   {
     "LAT": -11.8829566,
     "LON": -77.0691967,
-    "Nombre": "tienda79"
+    "Nombre": "tienda86"
+  },
+  {
+    "LAT": -7.1469932,
+    "LON": -78.5241411,
+    "Nombre": "tienda87"
   },
   {
     "LAT": -11.1076952,
     "LON": -77.596692,
-    "Nombre": "tienda80"
+    "Nombre": "tienda88"
   },
   {
     "LAT": -13.5318599,
     "LON": -71.9319586,
-    "Nombre": "tienda81"
+    "Nombre": "tienda89"
   },
   {
     "LAT": -12.1349865,
     "LON": -76.99726,
-    "Nombre": "tienda82"
+    "Nombre": "tienda90"
   },
   {
     "LAT": -13.5320008,
     "LON": -71.9329593,
-    "Nombre": "tienda83"
+    "Nombre": "tienda91"
   },
   {
     "LAT": -10.661786,
     "LON": -76.251544,
-    "Nombre": "tienda84"
+    "Nombre": "tienda92"
   },
   {
     "LAT": -6.7567805,
     "LON": -79.8410514,
-    "Nombre": "tienda85"
+    "Nombre": "tienda93"
   },
   {
     "LAT": -12.0338908,
     "LON": -77.0384548,
-    "Nombre": "tienda86"
+    "Nombre": "tienda94"
   },
   {
     "LAT": -12.14158135,
     "LON": -76.99223625,
-    "Nombre": "tienda87"
+    "Nombre": "tienda95"
   },
   {
     "LAT": -12.03331825,
     "LON": -77.03879759,
-    "Nombre": "tienda88"
+    "Nombre": "tienda96"
   },
   {
     "LAT": -12.03579199,
     "LON": -77.03862894,
-    "Nombre": "tienda89"
+    "Nombre": "tienda97"
   },
   {
     "LAT": -10.7865427,
     "LON": -76.2427747,
-    "Nombre": "tienda90"
+    "Nombre": "tienda98"
   },
   {
     "LAT": -5.16084,
     "LON": -80.6229212,
-    "Nombre": "tienda91"
+    "Nombre": "tienda99"
   },
   {
     "LAT": -5.1430024,
     "LON": -80.6284405,
-    "Nombre": "tienda92"
+    "Nombre": "tienda100"
   },
   {
     "LAT": -10.7905444,
     "LON": -76.2399248,
-    "Nombre": "tienda93"
+    "Nombre": "tienda101"
   },
   {
     "LAT": -6.4967997,
     "LON": -76.36846,
-    "Nombre": "tienda94"
+    "Nombre": "tienda102"
   },
   {
     "LAT": -3.7391791,
     "LON": -73.2603665,
-    "Nombre": "tienda95"
+    "Nombre": "tienda103"
   },
   {
     "LAT": -10.7917702,
     "LON": -76.2403481,
-    "Nombre": "tienda96"
+    "Nombre": "tienda104"
   },
   {
     "LAT": -12.0893609,
     "LON": -75.212692,
-    "Nombre": "tienda97"
+    "Nombre": "tienda105"
   },
   {
     "LAT": -6.4997657,
     "LON": -76.3720975,
-    "Nombre": "tienda98"
+    "Nombre": "tienda106"
   },
   {
     "LAT": -3.7357501,
     "LON": -73.2590466,
-    "Nombre": "tienda99"
+    "Nombre": "tienda107"
   },
   {
     "LAT": -5.1504871,
     "LON": -80.6604077,
-    "Nombre": "tienda100"
+    "Nombre": "tienda108"
   },
   {
     "LAT": -11.1143555,
     "LON": -77.6100872,
-    "Nombre": "tienda101"
+    "Nombre": "tienda109"
   },
   {
     "LAT": -6.7472186,
     "LON": -79.855227,
-    "Nombre": "tienda102"
+    "Nombre": "tienda110"
   },
   {
     "LAT": -6.5009599,
     "LON": -76.3709322,
-    "Nombre": "tienda103"
+    "Nombre": "tienda111"
   },
   {
     "LAT": -11.1146743,
     "LON": -77.609957,
-    "Nombre": "tienda104"
+    "Nombre": "tienda112"
   },
   {
     "LAT": -3.7335456,
     "LON": -73.2639987,
-    "Nombre": "tienda105"
+    "Nombre": "tienda113"
   },
   {
     "LAT": -12.0838491,
     "LON": -75.1965288,
-    "Nombre": "tienda106"
+    "Nombre": "tienda114"
   },
   {
     "LAT": -12.0721921,
     "LON": -77.0022678,
-    "Nombre": "tienda107"
+    "Nombre": "tienda115"
   },
   {
     "LAT": -13.5238989,
     "LON": -71.9748332,
-    "Nombre": "tienda108"
+    "Nombre": "tienda116"
   },
   {
     "LAT": -3.7418538,
     "LON": -73.2568719,
-    "Nombre": "tienda109"
+    "Nombre": "tienda117"
   },
   {
     "LAT": -8.1008398,
     "LON": -79.0266366,
-    "Nombre": "tienda110"
+    "Nombre": "tienda118"
   },
   {
     "LAT": -3.7388963,
     "LON": -73.2571767,
-    "Nombre": "tienda111"
+    "Nombre": "tienda119"
   },
   {
     "LAT": -13.5238358,
     "LON": -71.9792746,
-    "Nombre": "tienda112"
+    "Nombre": "tienda120"
   },
   {
     "LAT": -6.4912377,
     "LON": -76.3651453,
-    "Nombre": "tienda113"
+    "Nombre": "tienda121"
   },
   {
     "LAT": -12.0670656,
     "LON": -77.1285595,
-    "Nombre": "tienda114"
+    "Nombre": "tienda122"
   },
   {
     "LAT": -3.7375401,
     "LON": -73.2530616,
-    "Nombre": "tienda115"
+    "Nombre": "tienda123"
   },
   {
     "LAT": -14.0418814,
     "LON": -75.7521739,
-    "Nombre": "tienda116"
+    "Nombre": "tienda124"
   },
   {
     "LAT": -3.7394382,
     "LON": -73.2504017,
-    "Nombre": "tienda117"
+    "Nombre": "tienda125"
   },
   {
     "LAT": -12.0693063,
     "LON": -75.2003793,
-    "Nombre": "tienda118"
+    "Nombre": "tienda126"
   },
   {
     "LAT": -6.4803435,
     "LON": -76.3812287,
-    "Nombre": "tienda119"
+    "Nombre": "tienda127"
+  },
+  {
+    "LAT": -9.1209061,
+    "LON": -78.5347096,
+    "Nombre": "tienda128"
   },
   {
     "LAT": -12.0590591,
     "LON": -77.1273001,
-    "Nombre": "tienda120"
+    "Nombre": "tienda129"
   },
   {
     "LAT": -11.103207,
     "LON": -77.5959441,
-    "Nombre": "tienda121"
+    "Nombre": "tienda130"
   },
   {
     "LAT": -3.7339469,
     "LON": -73.253137,
-    "Nombre": "tienda122"
+    "Nombre": "tienda131"
   },
   {
     "LAT": -6.7491042,
     "LON": -79.8469514,
-    "Nombre": "tienda123"
+    "Nombre": "tienda132"
   },
   {
     "LAT": -8.1046046,
     "LON": -79.0337279,
-    "Nombre": "tienda124"
+    "Nombre": "tienda133"
+  },
+  {
+    "LAT": -18.0285496,
+    "LON": -70.244072,
+    "Nombre": "tienda134"
+  },
+  {
+    "LAT": -7.165888,
+    "LON": -78.507416,
+    "Nombre": "tienda135"
   },
   {
     "LAT": -3.7338972,
     "LON": -73.2544327,
-    "Nombre": "tienda125"
+    "Nombre": "tienda136"
   },
   {
     "LAT": -3.7650584,
     "LON": -73.2607584,
-    "Nombre": "tienda126"
+    "Nombre": "tienda137"
   },
   {
     "LAT": -14.0414931,
     "LON": -75.7519671,
-    "Nombre": "tienda127"
+    "Nombre": "tienda138"
   },
   {
     "LAT": -9.1189082,
     "LON": -78.5357322,
-    "Nombre": "tienda128"
+    "Nombre": "tienda139"
   },
   {
     "LAT": -12.04411215,
     "LON": -76.97543312,
-    "Nombre": "tienda129"
+    "Nombre": "tienda140"
   },
   {
     "LAT": -12.069478,
     "LON": -76.9890304,
-    "Nombre": "tienda130"
+    "Nombre": "tienda141"
+  },
+  {
+    "LAT": -8.111709,
+    "LON": -79.003049,
+    "Nombre": "tienda142"
   },
   {
     "LAT": -9.128482985,
     "LON": -78.51802244,
-    "Nombre": "tienda131"
+    "Nombre": "tienda143"
   },
   {
     "LAT": -3.7430743,
     "LON": -73.2550714,
-    "Nombre": "tienda132"
+    "Nombre": "tienda144"
   },
   {
     "LAT": -11.8987996,
     "LON": -77.0671334,
-    "Nombre": "tienda133"
+    "Nombre": "tienda145"
   },
   {
     "LAT": -6.475305,
     "LON": -76.392923,
-    "Nombre": "tienda134"
+    "Nombre": "tienda146"
   },
   {
     "LAT": -10.75462341,
     "LON": -76.25861359,
-    "Nombre": "tienda135"
+    "Nombre": "tienda147"
   },
   {
     "LAT": -9.1139621,
     "LON": -78.5438197,
-    "Nombre": "tienda136"
+    "Nombre": "tienda148"
   },
   {
     "LAT": -12.15571,
     "LON": -76.960693,
-    "Nombre": "tienda137"
+    "Nombre": "tienda149"
   },
   {
     "LAT": -12.0831746,
     "LON": -75.2167259,
-    "Nombre": "tienda138"
+    "Nombre": "tienda150"
   },
   {
     "LAT": -14.0399158,
     "LON": -75.7520813,
-    "Nombre": "tienda139"
+    "Nombre": "tienda151"
   },
   {
     "LAT": -12.069407,
     "LON": -77.0977455,
-    "Nombre": "tienda140"
+    "Nombre": "tienda152"
   },
   {
     "LAT": -12.0690569,
     "LON": -76.9911477,
-    "Nombre": "tienda141"
+    "Nombre": "tienda153"
   },
   {
     "LAT": -9.133742119,
     "LON": -78.52433703,
-    "Nombre": "tienda142"
+    "Nombre": "tienda154"
   },
   {
     "LAT": -3.765525,
     "LON": -73.2643543,
-    "Nombre": "tienda143"
+    "Nombre": "tienda155"
   },
   {
     "LAT": -12.0825599,
     "LON": -77.0276033,
-    "Nombre": "tienda144"
+    "Nombre": "tienda156"
   },
   {
     "LAT": -6.4718968,
     "LON": -76.4002922,
-    "Nombre": "tienda145"
+    "Nombre": "tienda157"
   },
   {
     "LAT": -9.1145397,
     "LON": -78.5464606,
-    "Nombre": "tienda146"
+    "Nombre": "tienda158"
   },
   {
     "LAT": -3.765473943,
     "LON": -73.26996745,
-    "Nombre": "tienda147"
+    "Nombre": "tienda159"
   },
   {
     "LAT": -11.1073614,
     "LON": -77.5803978,
-    "Nombre": "tienda148"
+    "Nombre": "tienda160"
   },
   {
     "LAT": -12.0650017,
     "LON": -77.0973794,
-    "Nombre": "tienda149"
+    "Nombre": "tienda161"
   },
   {
     "LAT": -14.0372708,
     "LON": -75.7547597,
-    "Nombre": "tienda150"
+    "Nombre": "tienda162"
   },
   {
     "LAT": -3.7654562,
     "LON": -73.2712351,
-    "Nombre": "tienda151"
+    "Nombre": "tienda163"
   },
   {
     "LAT": -3.7693071,
     "LON": -73.27628286,
-    "Nombre": "tienda152"
+    "Nombre": "tienda164"
   },
   {
     "LAT": -11.1075639,
     "LON": -77.5803374,
-    "Nombre": "tienda153"
+    "Nombre": "tienda165"
   },
   {
     "LAT": -12.1589683,
     "LON": -76.9513895,
-    "Nombre": "tienda154"
+    "Nombre": "tienda166"
   },
   {
     "LAT": -9.146168437,
     "LON": -78.51121975,
-    "Nombre": "tienda155"
+    "Nombre": "tienda167"
   },
   {
     "LAT": -11.8794582,
     "LON": -77.0681957,
-    "Nombre": "tienda156"
+    "Nombre": "tienda168"
   },
   {
     "LAT": -8.1024237,
     "LON": -79.0396373,
-    "Nombre": "tienda157"
+    "Nombre": "tienda169"
   },
   {
     "LAT": -3.776556454,
     "LON": -73.29055868,
-    "Nombre": "tienda158"
+    "Nombre": "tienda170"
   },
   {
     "LAT": -11.9742101,
     "LON": -77.0608952,
-    "Nombre": "tienda159"
+    "Nombre": "tienda171"
   },
   {
     "LAT": -9.1274001,
     "LON": -78.5234413,
-    "Nombre": "tienda160"
+    "Nombre": "tienda172"
   },
   {
     "LAT": -9.146213516,
     "LON": -78.51115303,
-    "Nombre": "tienda161"
+    "Nombre": "tienda173"
   },
   {
     "LAT": -12.184526,
     "LON": -77.0064388,
-    "Nombre": "tienda162"
+    "Nombre": "tienda174"
   },
   {
     "LAT": -3.7898971,
     "LON": -73.3004723,
-    "Nombre": "tienda163"
+    "Nombre": "tienda175"
   },
   {
     "LAT": -12.0484803,
     "LON": -75.2162292,
-    "Nombre": "tienda164"
+    "Nombre": "tienda176"
   },
   {
     "LAT": -12.0817181,
     "LON": -77.0361326,
-    "Nombre": "tienda165"
+    "Nombre": "tienda177"
   },
   {
     "LAT": -3.792198514,
     "LON": -73.29918693,
-    "Nombre": "tienda166"
+    "Nombre": "tienda178"
   },
   {
     "LAT": -12.0451007,
     "LON": -75.2288242,
-    "Nombre": "tienda167"
+    "Nombre": "tienda179"
   },
   {
     "LAT": -3.7930918,
     "LON": -73.2997357,
-    "Nombre": "tienda168"
+    "Nombre": "tienda180"
   },
   {
     "LAT": -12.0614814,
     "LON": -77.0821981,
-    "Nombre": "tienda169"
+    "Nombre": "tienda181"
   },
   {
     "LAT": -12.0456798,
     "LON": -75.2297596,
-    "Nombre": "tienda170"
+    "Nombre": "tienda182"
   },
   {
     "LAT": -3.781835058,
     "LON": -73.28372755,
-    "Nombre": "tienda171"
+    "Nombre": "tienda183"
   },
   {
     "LAT": -12.1785203,
     "LON": -76.9962496,
-    "Nombre": "tienda172"
+    "Nombre": "tienda184"
   },
   {
     "LAT": -14.0341066,
     "LON": -75.7554017,
-    "Nombre": "tienda173"
+    "Nombre": "tienda185"
   },
   {
     "LAT": -3.7781309,
     "LON": -73.2778429,
-    "Nombre": "tienda174"
+    "Nombre": "tienda186"
   },
   {
     "LAT": -12.0617889,
     "LON": -77.0874301,
-    "Nombre": "tienda175"
+    "Nombre": "tienda187"
   },
   {
     "LAT": -6.7548064,
     "LON": -79.8385225,
-    "Nombre": "tienda176"
+    "Nombre": "tienda188"
   },
   {
     "LAT": -12.0956563,
     "LON": -77.0315636,
-    "Nombre": "tienda177"
+    "Nombre": "tienda189"
   },
   {
     "LAT": -3.7773998,
     "LON": -73.27625526,
-    "Nombre": "tienda178"
+    "Nombre": "tienda190"
   },
   {
     "LAT": -12.1558512,
     "LON": -76.935015,
-    "Nombre": "tienda179"
+    "Nombre": "tienda191"
   },
   {
     "LAT": -12.178269,
     "LON": -76.9957972,
-    "Nombre": "tienda180"
+    "Nombre": "tienda192"
   },
   {
     "LAT": -11.9108692,
     "LON": -77.0556883,
-    "Nombre": "tienda181"
+    "Nombre": "tienda193"
   },
   {
     "LAT": -12.1778791,
     "LON": -76.9963015,
-    "Nombre": "tienda182"
+    "Nombre": "tienda194"
   },
   {
     "LAT": -14.0299791,
     "LON": -75.7588534,
-    "Nombre": "tienda183"
+    "Nombre": "tienda195"
   },
   {
     "LAT": -6.7561111,
     "LON": -79.8334969,
-    "Nombre": "tienda184"
+    "Nombre": "tienda196"
   },
   {
     "LAT": -12.1558512,
     "LON": -76.935015,
-    "Nombre": "tienda185"
+    "Nombre": "tienda197"
   },
   {
     "LAT": -11.9480695,
     "LON": -77.0773226,
-    "Nombre": "tienda186"
+    "Nombre": "tienda198"
   },
   {
     "LAT": -14.0272996,
     "LON": -75.759788,
-    "Nombre": "tienda187"
+    "Nombre": "tienda199"
   },
   {
     "LAT": -12.1835634,
     "LON": -77.0089878,
-    "Nombre": "tienda188"
+    "Nombre": "tienda200"
   },
   {
     "LAT": -11.8978404,
     "LON": -77.0494994,
-    "Nombre": "tienda189"
+    "Nombre": "tienda201"
   },
   {
     "LAT": -12.1814828,
     "LON": -77.0119066,
-    "Nombre": "tienda190"
+    "Nombre": "tienda202"
   },
   {
     "LAT": -10.68473,
     "LON": -76.243307,
-    "Nombre": "tienda191"
+    "Nombre": "tienda203"
   },
   {
     "LAT": -12.1671495,
     "LON": -76.9481753,
-    "Nombre": "tienda192"
+    "Nombre": "tienda204"
   },
   {
     "LAT": -10.6797483,
     "LON": -76.2505495,
-    "Nombre": "tienda193"
+    "Nombre": "tienda205"
   },
   {
     "LAT": -12.1699677,
     "LON": -77.0237551,
-    "Nombre": "tienda194"
+    "Nombre": "tienda206"
   },
   {
     "LAT": -14.009952,
     "LON": -75.7648623,
-    "Nombre": "tienda195"
+    "Nombre": "tienda207"
   },
   {
     "LAT": -11.9358524,
     "LON": -77.059855,
-    "Nombre": "tienda196"
+    "Nombre": "tienda208"
   },
   {
     "LAT": -6.4751286,
     "LON": -76.3918345,
-    "Nombre": "tienda197"
+    "Nombre": "tienda209"
   },
   {
     "LAT": -13.1659191,
     "LON": -74.2157844,
-    "Nombre": "tienda198"
+    "Nombre": "tienda210"
   },
   {
     "LAT": -13.5341959,
     "LON": -71.939441,
-    "Nombre": "tienda199"
+    "Nombre": "tienda211"
   },
   {
     "LAT": -10.690468,
     "LON": -76.242924,
-    "Nombre": "tienda200"
+    "Nombre": "tienda212"
   },
   {
     "LAT": -14.0083521,
     "LON": -75.7651114,
-    "Nombre": "tienda201"
+    "Nombre": "tienda213"
   },
   {
     "LAT": -11.9784482,
     "LON": -77.0524137,
-    "Nombre": "tienda202"
+    "Nombre": "tienda214"
   },
   {
     "LAT": -12.1663217,
     "LON": -76.9508073,
-    "Nombre": "tienda203"
+    "Nombre": "tienda215"
   },
   {
     "LAT": -10.684227,
     "LON": -76.249764,
-    "Nombre": "tienda204"
+    "Nombre": "tienda216"
   },
   {
     "LAT": -13.1624048,
     "LON": -74.2150854,
-    "Nombre": "tienda205"
+    "Nombre": "tienda217"
   },
   {
     "LAT": -14.0019293,
     "LON": -75.7672819,
-    "Nombre": "tienda206"
+    "Nombre": "tienda218"
   },
   {
     "LAT": -13.1605924,
     "LON": -74.2117547,
-    "Nombre": "tienda207"
+    "Nombre": "tienda219"
   },
   {
     "LAT": -6.4630783,
     "LON": -76.4337121,
-    "Nombre": "tienda208"
+    "Nombre": "tienda220"
   },
   {
     "LAT": -12.0890937,
     "LON": -77.0295979,
-    "Nombre": "tienda209"
+    "Nombre": "tienda221"
   },
   {
     "LAT": -6.4897726,
     "LON": -76.363185,
-    "Nombre": "tienda210"
+    "Nombre": "tienda222"
   },
   {
     "LAT": -18.0510104,
     "LON": -70.248572,
-    "Nombre": "tienda211"
+    "Nombre": "tienda223"
   },
   {
     "LAT": -6.4859726,
     "LON": -76.3680418,
-    "Nombre": "tienda212"
+    "Nombre": "tienda224"
   },
   {
     "LAT": -6.4659162,
     "LON": -76.4476507,
-    "Nombre": "tienda213"
+    "Nombre": "tienda225"
   },
   {
     "LAT": -13.9890187,
     "LON": -75.7711076,
-    "Nombre": "tienda214"
+    "Nombre": "tienda226"
   },
   {
     "LAT": -11.9788554,
     "LON": -77.0546563,
-    "Nombre": "tienda215"
+    "Nombre": "tienda227"
   },
   {
     "LAT": -6.4936813,
     "LON": -76.3754231,
-    "Nombre": "tienda216"
+    "Nombre": "tienda228"
   },
   {
     "LAT": -13.1702062,
     "LON": -74.2044916,
-    "Nombre": "tienda217"
+    "Nombre": "tienda229"
   },
   {
     "LAT": -13.5338826,
     "LON": -71.9420707,
-    "Nombre": "tienda218"
+    "Nombre": "tienda230"
   },
   {
     "LAT": -12.0345725,
     "LON": -75.190919,
-    "Nombre": "tienda219"
+    "Nombre": "tienda231"
   },
   {
     "LAT": -13.1708851,
     "LON": -74.2028259,
-    "Nombre": "tienda220"
+    "Nombre": "tienda232"
   },
   {
     "LAT": -18.07801,
     "LON": -70.2989216,
-    "Nombre": "tienda221"
+    "Nombre": "tienda233"
   },
   {
     "LAT": -11.9891477,
     "LON": -77.0611008,
-    "Nombre": "tienda222"
+    "Nombre": "tienda234"
   },
   {
     "LAT": -11.9893217,
     "LON": -77.0612321,
-    "Nombre": "tienda223"
+    "Nombre": "tienda235"
   },
   {
     "LAT": -6.4882443,
     "LON": -76.3625371,
-    "Nombre": "tienda224"
+    "Nombre": "tienda236"
   },
   {
     "LAT": -13.1568976,
     "LON": -74.2144605,
-    "Nombre": "tienda225"
+    "Nombre": "tienda237"
+  },
+  {
+    "LAT": -8.109046,
+    "LON": -79.007558,
+    "Nombre": "tienda238"
   },
   {
     "LAT": -6.471462,
     "LON": -76.40297,
-    "Nombre": "tienda226"
+    "Nombre": "tienda239"
   },
   {
     "LAT": -11.9891074,
     "LON": -77.0565727,
-    "Nombre": "tienda227"
+    "Nombre": "tienda240"
   },
   {
     "LAT": -13.1626832,
     "LON": -74.1969983,
-    "Nombre": "tienda228"
+    "Nombre": "tienda241"
   },
   {
     "LAT": -6.4769955,
     "LON": -76.386999,
-    "Nombre": "tienda229"
+    "Nombre": "tienda242"
   },
   {
     "LAT": -10.670096,
     "LON": -76.252464,
-    "Nombre": "tienda230"
+    "Nombre": "tienda243"
   },
   {
     "LAT": -12.0071758,
     "LON": -77.0545982,
-    "Nombre": "tienda231"
+    "Nombre": "tienda244"
   },
   {
     "LAT": -14.0529738,
     "LON": -75.7462394,
-    "Nombre": "tienda232"
+    "Nombre": "tienda245"
   },
   {
     "LAT": -13.1360634,
     "LON": -74.2251399,
-    "Nombre": "tienda233"
+    "Nombre": "tienda246"
   },
   {
     "LAT": -13.1465004,
     "LON": -74.2316318,
-    "Nombre": "tienda234"
+    "Nombre": "tienda247"
   },
   {
     "LAT": -14.0628534,
     "LON": -75.7413765,
-    "Nombre": "tienda235"
+    "Nombre": "tienda248"
   },
   {
     "LAT": -13.1518402,
     "LON": -74.2275432,
-    "Nombre": "tienda236"
+    "Nombre": "tienda249"
   },
   {
     "LAT": -13.1675478,
     "LON": -74.2444178,
-    "Nombre": "tienda237"
+    "Nombre": "tienda250"
   },
   {
     "LAT": -13.1664802,
     "LON": -74.2434381,
-    "Nombre": "tienda238"
+    "Nombre": "tienda251"
   },
   {
     "LAT": -12.006092,
     "LON": -77.0729143,
-    "Nombre": "tienda239"
+    "Nombre": "tienda252"
   },
   {
     "LAT": -13.1347253,
     "LON": -74.2290299,
-    "Nombre": "tienda240"
+    "Nombre": "tienda253"
   },
   {
     "LAT": -12.0055444,
     "LON": -77.0705477,
-    "Nombre": "tienda241"
+    "Nombre": "tienda254"
   },
   {
     "LAT": -3.7676551,
     "LON": -73.2944381,
-    "Nombre": "tienda242"
+    "Nombre": "tienda255"
   },
   {
     "LAT": -12.0060215,
     "LON": -77.0611913,
-    "Nombre": "tienda243"
+    "Nombre": "tienda256"
   },
   {
     "LAT": -3.7740455,
     "LON": -73.3026721,
-    "Nombre": "tienda244"
+    "Nombre": "tienda257"
   },
   {
     "LAT": -13.1467506,
     "LON": -74.2244552,
-    "Nombre": "tienda245"
+    "Nombre": "tienda258"
   },
   {
     "LAT": -13.159113,
     "LON": -74.2193836,
-    "Nombre": "tienda246"
+    "Nombre": "tienda259"
   },
   {
     "LAT": -12.03224631,
     "LON": -77.02695698,
-    "Nombre": "tienda247"
+    "Nombre": "tienda260"
   },
   {
     "LAT": -12.03925071,
     "LON": -77.01600216,
-    "Nombre": "tienda248"
+    "Nombre": "tienda261"
   },
   {
     "LAT": -12.02776866,
     "LON": -77.03332789,
-    "Nombre": "tienda249"
-  },
-  {
-    "LAT": -3.5684247,
-    "LON": -80.4592744,
-    "Nombre": "tienda250"
+    "Nombre": "tienda262"
   },
   {
     "LAT": -8.1000887,
     "LON": -79.0132898,
-    "Nombre": "tienda251"
+    "Nombre": "tienda263"
   },
   {
     "LAT": -12.0633543,
     "LON": -75.2144095,
-    "Nombre": "tienda252"
+    "Nombre": "tienda264"
   },
   {
     "LAT": -8.093553,
     "LON": -79.014825,
-    "Nombre": "tienda253"
+    "Nombre": "tienda265"
   },
   {
     "LAT": -14.0465749,
     "LON": -75.749057,
-    "Nombre": "tienda254"
+    "Nombre": "tienda266"
   },
   {
     "LAT": -12.0962434,
     "LON": -77.0208225,
-    "Nombre": "tienda255"
+    "Nombre": "tienda267"
   },
   {
     "LAT": -12.0710435,
     "LON": -77.0032667,
-    "Nombre": "tienda256"
+    "Nombre": "tienda268"
   },
   {
     "LAT": -12.04267305,
     "LON": -76.97110782,
-    "Nombre": "tienda257"
+    "Nombre": "tienda269"
   },
   {
     "LAT": -11.8615239,
     "LON": -77.0715021,
-    "Nombre": "tienda258"
+    "Nombre": "tienda270"
+  },
+  {
+    "LAT": -3.554475,
+    "LON": -80.432027,
+    "Nombre": "tienda271"
   },
   {
     "LAT": -12.1947819,
     "LON": -76.9342948,
-    "Nombre": "tienda259"
+    "Nombre": "tienda272"
   },
   {
     "LAT": -14.0514302,
     "LON": -75.7473961,
-    "Nombre": "tienda260"
+    "Nombre": "tienda273"
   },
   {
     "LAT": -12.091234,
     "LON": -77.032391,
-    "Nombre": "tienda261"
+    "Nombre": "tienda274"
   },
   {
     "LAT": -3.9631415,
     "LON": -80.9435015,
-    "Nombre": "tienda262"
+    "Nombre": "tienda275"
   },
   {
     "LAT": -12.03914197,
     "LON": -76.9578665,
-    "Nombre": "tienda263"
+    "Nombre": "tienda276"
   },
   {
     "LAT": -12.0760561,
     "LON": -77.0256267,
-    "Nombre": "tienda264"
+    "Nombre": "tienda277"
   },
   {
     "LAT": -11.8566283,
     "LON": -77.0837617,
-    "Nombre": "tienda265"
+    "Nombre": "tienda278"
   },
   {
     "LAT": -3.9560571,
     "LON": -80.9472481,
-    "Nombre": "tienda266"
+    "Nombre": "tienda279"
   },
   {
     "LAT": -14.0557051,
     "LON": -75.7445364,
-    "Nombre": "tienda267"
+    "Nombre": "tienda280"
   },
   {
     "LAT": -18.0191571,
     "LON": -70.2621834,
-    "Nombre": "tienda268"
+    "Nombre": "tienda281"
   },
   {
     "LAT": -12.2410021,
     "LON": -76.9134581,
-    "Nombre": "tienda269"
+    "Nombre": "tienda282"
   },
   {
     "LAT": -12.0914628,
     "LON": -77.0303833,
-    "Nombre": "tienda270"
+    "Nombre": "tienda283"
   },
   {
     "LAT": -7.1447263,
     "LON": -78.5104874,
-    "Nombre": "tienda271"
+    "Nombre": "tienda284"
   },
   {
     "LAT": -18.0189243,
     "LON": -70.26196,
-    "Nombre": "tienda272"
+    "Nombre": "tienda285"
   },
   {
     "LAT": -11.8469841,
     "LON": -77.0956189,
-    "Nombre": "tienda273"
+    "Nombre": "tienda286"
   },
   {
     "LAT": -7.144762,
     "LON": -78.5094902,
-    "Nombre": "tienda274"
+    "Nombre": "tienda287"
   },
   {
     "LAT": -12.2395462,
     "LON": -76.9284922,
-    "Nombre": "tienda275"
+    "Nombre": "tienda288"
   },
   {
     "LAT": -14.0574847,
     "LON": -75.7447146,
-    "Nombre": "tienda276"
+    "Nombre": "tienda289"
   },
   {
     "LAT": -12.03761072,
     "LON": -76.95472015,
-    "Nombre": "tienda277"
+    "Nombre": "tienda290"
   },
   {
     "LAT": -7.1727726,
     "LON": -78.499637,
-    "Nombre": "tienda278"
+    "Nombre": "tienda291"
   },
   {
     "LAT": -7.1460915,
     "LON": -78.5081642,
-    "Nombre": "tienda279"
+    "Nombre": "tienda292"
   },
   {
     "LAT": -9.141504014,
     "LON": -78.49985184,
-    "Nombre": "tienda280"
+    "Nombre": "tienda293"
   },
   {
     "LAT": -9.133193846,
     "LON": -78.50972219,
-    "Nombre": "tienda281"
+    "Nombre": "tienda294"
   },
   {
     "LAT": -12.1031181,
     "LON": -77.0520169,
-    "Nombre": "tienda282"
+    "Nombre": "tienda295"
   },
   {
     "LAT": -11.9968274,
     "LON": -77.12459,
-    "Nombre": "tienda283"
+    "Nombre": "tienda296"
   },
   {
     "LAT": -3.7051676,
     "LON": -80.7174341,
-    "Nombre": "tienda284"
+    "Nombre": "tienda297"
   },
   {
     "LAT": -12.0664093,
     "LON": -77.0227511,
-    "Nombre": "tienda285"
+    "Nombre": "tienda298"
   },
   {
     "LAT": -12.0665648,
     "LON": -75.2168992,
-    "Nombre": "tienda286"
+    "Nombre": "tienda299"
   },
   {
     "LAT": -3.6801806,
     "LON": -80.6794308,
-    "Nombre": "tienda287"
+    "Nombre": "tienda300"
   },
   {
     "LAT": -11.9993565,
     "LON": -77.1218178,
-    "Nombre": "tienda288"
+    "Nombre": "tienda301"
   },
   {
     "LAT": -14.0580854,
     "LON": -75.7398962,
-    "Nombre": "tienda289"
+    "Nombre": "tienda302"
   },
   {
     "LAT": -11.89233,
     "LON": -77.1280175,
-    "Nombre": "tienda290"
+    "Nombre": "tienda303"
   },
   {
     "LAT": -12.1197877,
     "LON": -77.0243594,
-    "Nombre": "tienda291"
+    "Nombre": "tienda304"
   },
   {
     "LAT": -12.1794995,
     "LON": -76.9627514,
-    "Nombre": "tienda292"
+    "Nombre": "tienda305"
   },
   {
     "LAT": -9.1343367,
     "LON": -78.4924308,
-    "Nombre": "tienda293"
+    "Nombre": "tienda306"
   },
   {
     "LAT": -11.9926317,
     "LON": -77.109422,
-    "Nombre": "tienda294"
+    "Nombre": "tienda307"
   },
   {
     "LAT": -17.9687337,
     "LON": -70.1905376,
-    "Nombre": "tienda295"
+    "Nombre": "tienda308"
   },
   {
     "LAT": -13.6339791,
     "LON": -72.8842247,
-    "Nombre": "tienda296"
+    "Nombre": "tienda309"
+  },
+  {
+    "LAT": -9.188131,
+    "LON": -77.714699,
+    "Nombre": "tienda310"
   },
   {
     "LAT": -12.1783966,
     "LON": -76.9660967,
-    "Nombre": "tienda297"
+    "Nombre": "tienda311"
   },
   {
     "LAT": -3.6272389,
     "LON": -80.5672674,
-    "Nombre": "tienda298"
+    "Nombre": "tienda312"
   },
   {
     "LAT": -3.4831227,
     "LON": -80.2575689,
-    "Nombre": "tienda299"
+    "Nombre": "tienda313"
   },
   {
     "LAT": -9.1292574,
     "LON": -78.5175416,
-    "Nombre": "tienda300"
+    "Nombre": "tienda314"
   },
   {
     "LAT": -11.8639183,
     "LON": -77.1224647,
-    "Nombre": "tienda301"
+    "Nombre": "tienda315"
   },
   {
     "LAT": -12.1590145,
     "LON": -76.9587734,
-    "Nombre": "tienda302"
+    "Nombre": "tienda316"
   },
   {
     "LAT": -11.9911123,
     "LON": -77.106903,
-    "Nombre": "tienda303"
+    "Nombre": "tienda317"
   },
   {
     "LAT": -13.6365441,
     "LON": -72.8972686,
-    "Nombre": "tienda304"
+    "Nombre": "tienda318"
   },
   {
     "LAT": -3.5004134,
     "LON": -80.2789332,
-    "Nombre": "tienda305"
+    "Nombre": "tienda319"
   },
   {
     "LAT": -7.1658243,
     "LON": -78.5035855,
-    "Nombre": "tienda306"
+    "Nombre": "tienda320"
   },
   {
     "LAT": -10.7262193,
     "LON": -75.2638325,
-    "Nombre": "tienda307"
+    "Nombre": "tienda321"
   },
   {
     "LAT": -17.9871145,
     "LON": -70.210387,
-    "Nombre": "tienda308"
+    "Nombre": "tienda322"
   },
   {
     "LAT": -12.0663544,
     "LON": -77.0228246,
-    "Nombre": "tienda309"
+    "Nombre": "tienda323"
   },
   {
     "LAT": -11.8302219,
     "LON": -77.103239,
-    "Nombre": "tienda310"
+    "Nombre": "tienda324"
   },
   {
     "LAT": -12.1142006,
     "LON": -77.0372672,
-    "Nombre": "tienda311"
+    "Nombre": "tienda325"
   },
   {
     "LAT": -3.5947994,
     "LON": -80.4811418,
-    "Nombre": "tienda312"
+    "Nombre": "tienda326"
   },
   {
     "LAT": -12.09383065,
     "LON": -77.00298573,
-    "Nombre": "tienda313"
+    "Nombre": "tienda327"
   },
   {
     "LAT": -14.0638218,
     "LON": -75.736065,
-    "Nombre": "tienda314"
+    "Nombre": "tienda328"
   },
   {
     "LAT": -11.9905019,
     "LON": -77.1076229,
-    "Nombre": "tienda315"
+    "Nombre": "tienda329"
   },
   {
     "LAT": -13.6414175,
     "LON": -72.9039633,
-    "Nombre": "tienda316"
+    "Nombre": "tienda330"
   },
   {
     "LAT": -3.5745014,
     "LON": -80.4644541,
-    "Nombre": "tienda317"
+    "Nombre": "tienda331"
   },
   {
     "LAT": -12.0441004,
     "LON": -77.0531324,
-    "Nombre": "tienda318"
+    "Nombre": "tienda332"
   },
   {
     "LAT": -3.5778821,
     "LON": -80.4675125,
-    "Nombre": "tienda319"
+    "Nombre": "tienda333"
   },
   {
     "LAT": -16.3560052,
     "LON": -71.5793201,
-    "Nombre": "tienda320"
+    "Nombre": "tienda334"
   },
   {
     "LAT": -12.067313,
     "LON": -77.0296001,
-    "Nombre": "tienda321"
+    "Nombre": "tienda335"
   },
   {
     "LAT": -18.0199627,
     "LON": -70.2609414,
-    "Nombre": "tienda322"
+    "Nombre": "tienda336"
   },
   {
     "LAT": -13.6566701,
     "LON": -72.9094693,
-    "Nombre": "tienda323"
+    "Nombre": "tienda337"
   },
   {
     "LAT": -14.0686272,
     "LON": -75.7356567,
-    "Nombre": "tienda324"
+    "Nombre": "tienda338"
   },
   {
     "LAT": -12.0700628,
     "LON": -77.0283089,
-    "Nombre": "tienda325"
+    "Nombre": "tienda339"
   },
   {
     "LAT": -11.8690414,
     "LON": -77.1281805,
-    "Nombre": "tienda326"
+    "Nombre": "tienda340"
   },
   {
     "LAT": -10.7394637,
     "LON": -75.2743171,
-    "Nombre": "tienda327"
+    "Nombre": "tienda341"
   },
   {
     "LAT": -11.8393907,
     "LON": -77.1122663,
-    "Nombre": "tienda328"
+    "Nombre": "tienda342"
   },
   {
     "LAT": -18.001014,
     "LON": -70.2532184,
-    "Nombre": "tienda329"
+    "Nombre": "tienda343"
   },
   {
     "LAT": -13.65741,
     "LON": -72.9305852,
-    "Nombre": "tienda330"
+    "Nombre": "tienda344"
   },
   {
     "LAT": -12.0089362,
     "LON": -77.0649185,
-    "Nombre": "tienda331"
+    "Nombre": "tienda345"
   },
   {
     "LAT": -14.0660964,
     "LON": -75.7375945,
-    "Nombre": "tienda332"
+    "Nombre": "tienda346"
   },
   {
     "LAT": -11.8300604,
     "LON": -77.1177468,
-    "Nombre": "tienda333"
+    "Nombre": "tienda347"
   },
   {
     "LAT": -11.9946936,
     "LON": -77.0587849,
-    "Nombre": "tienda334"
+    "Nombre": "tienda348"
   },
   {
     "LAT": -18.0441734,
     "LON": -70.2508962,
-    "Nombre": "tienda335"
+    "Nombre": "tienda349"
   },
   {
     "LAT": -6.4818142,
     "LON": -76.3769398,
-    "Nombre": "tienda336"
+    "Nombre": "tienda350"
   },
   {
     "LAT": -12.0451615,
     "LON": -77.0655991,
-    "Nombre": "tienda337"
+    "Nombre": "tienda351"
   },
   {
     "LAT": -13.6871283,
     "LON": -72.9170567,
-    "Nombre": "tienda338"
+    "Nombre": "tienda352"
   },
   {
     "LAT": -12.0122771,
     "LON": -77.0747596,
-    "Nombre": "tienda339"
+    "Nombre": "tienda353"
   },
   {
     "LAT": -12.0175973,
     "LON": -77.0028607,
-    "Nombre": "tienda340"
+    "Nombre": "tienda354"
   },
   {
     "LAT": -12.0660211,
     "LON": -77.0506251,
-    "Nombre": "tienda341"
+    "Nombre": "tienda355"
   },
   {
     "LAT": -12.0123314,
     "LON": -77.0864457,
-    "Nombre": "tienda342"
+    "Nombre": "tienda356"
   },
   {
     "LAT": -12.0662802,
     "LON": -75.2838559,
-    "Nombre": "tienda343"
+    "Nombre": "tienda357"
   },
   {
     "LAT": -6.5759959,
     "LON": -76.328436,
-    "Nombre": "tienda344"
+    "Nombre": "tienda358"
   },
   {
     "LAT": -13.6767318,
     "LON": -72.9226247,
-    "Nombre": "tienda345"
+    "Nombre": "tienda359"
   },
   {
     "LAT": -12.0642335,
     "LON": -77.0487203,
-    "Nombre": "tienda346"
+    "Nombre": "tienda360"
   },
   {
     "LAT": -12.0101275,
     "LON": -77.0038093,
-    "Nombre": "tienda347"
+    "Nombre": "tienda361"
   },
   {
     "LAT": -12.0176805,
     "LON": -77.0982482,
-    "Nombre": "tienda348"
+    "Nombre": "tienda362"
   },
   {
     "LAT": -8.0919788,
     "LON": -79.0013993,
-    "Nombre": "tienda349"
+    "Nombre": "tienda363"
   },
   {
     "LAT": -7.1832199,
     "LON": -78.4944963,
-    "Nombre": "tienda350"
+    "Nombre": "tienda364"
   },
   {
     "LAT": -3.5736349,
     "LON": -80.4635451,
-    "Nombre": "tienda351"
+    "Nombre": "tienda365"
   },
   {
     "LAT": -12.0568708,
     "LON": -77.0543653,
-    "Nombre": "tienda352"
+    "Nombre": "tienda366"
   },
   {
     "LAT": -12.0677054,
     "LON": -75.2727219,
-    "Nombre": "tienda353"
+    "Nombre": "tienda367"
+  },
+  {
+    "LAT": -10.575217,
+    "LON": -75.399501,
+    "Nombre": "tienda368"
   },
   {
     "LAT": -12.0580696,
     "LON": -77.0687935,
-    "Nombre": "tienda354"
+    "Nombre": "tienda369"
   },
   {
     "LAT": -12.0140419,
     "LON": -77.095173,
-    "Nombre": "tienda355"
+    "Nombre": "tienda370"
   },
   {
     "LAT": -16.4238033,
     "LON": -71.5321667,
-    "Nombre": "tienda356"
+    "Nombre": "tienda371"
   },
   {
     "LAT": -3.5545398,
     "LON": -80.4363048,
-    "Nombre": "tienda357"
+    "Nombre": "tienda372"
   },
   {
     "LAT": -3.5547072,
     "LON": -80.436032,
-    "Nombre": "tienda358"
+    "Nombre": "tienda373"
   },
   {
     "LAT": -13.522959,
     "LON": -71.9691346,
-    "Nombre": "tienda359"
+    "Nombre": "tienda374"
   },
   {
     "LAT": -10.5746219,
     "LON": -75.4002331,
-    "Nombre": "tienda360"
+    "Nombre": "tienda375"
   },
   {
     "LAT": -16.4550161,
     "LON": -71.5406555,
-    "Nombre": "tienda361"
+    "Nombre": "tienda376"
   },
   {
     "LAT": -12.056224,
     "LON": -77.0624969,
-    "Nombre": "tienda362"
+    "Nombre": "tienda377"
   },
   {
     "LAT": -13.5209673,
     "LON": -71.9684878,
-    "Nombre": "tienda363"
+    "Nombre": "tienda378"
   },
   {
     "LAT": -10.5695131,
     "LON": -75.4070582,
-    "Nombre": "tienda364"
+    "Nombre": "tienda379"
   },
   {
     "LAT": -12.0561142,
     "LON": -75.2844049,
-    "Nombre": "tienda365"
+    "Nombre": "tienda380"
   },
   {
     "LAT": -3.581407,
     "LON": -80.4475344,
-    "Nombre": "tienda366"
+    "Nombre": "tienda381"
   },
   {
     "LAT": -16.4298167,
     "LON": -71.53673,
-    "Nombre": "tienda367"
+    "Nombre": "tienda382"
   },
   {
     "LAT": -11.9904641,
     "LON": -77.0571063,
-    "Nombre": "tienda368"
+    "Nombre": "tienda383"
   },
   {
     "LAT": -8.1076993,
     "LON": -78.9972729,
-    "Nombre": "tienda369"
+    "Nombre": "tienda384"
   },
   {
     "LAT": -13.5217139,
     "LON": -71.965348,
-    "Nombre": "tienda370"
+    "Nombre": "tienda385"
   },
   {
     "LAT": -12.0557102,
     "LON": -77.0562411,
-    "Nombre": "tienda371"
+    "Nombre": "tienda386"
   },
   {
     "LAT": -6.7782586,
     "LON": -79.866905,
-    "Nombre": "tienda372"
+    "Nombre": "tienda387"
   },
   {
     "LAT": -12.0601295,
     "LON": -77.0773898,
-    "Nombre": "tienda373"
+    "Nombre": "tienda388"
   },
   {
     "LAT": -11.9771675,
     "LON": -77.0593478,
-    "Nombre": "tienda374"
+    "Nombre": "tienda389"
   },
   {
     "LAT": -8.1190413,
     "LON": -79.0046227,
-    "Nombre": "tienda375"
+    "Nombre": "tienda390"
   },
   {
     "LAT": -12.0595454,
     "LON": -77.0781516,
-    "Nombre": "tienda376"
+    "Nombre": "tienda391"
   },
   {
     "LAT": -7.1790076,
     "LON": -78.4873391,
-    "Nombre": "tienda377"
+    "Nombre": "tienda392"
   },
   {
     "LAT": -11.9774554,
     "LON": -77.0777693,
-    "Nombre": "tienda378"
+    "Nombre": "tienda393"
+  },
+  {
+    "LAT": -10.5863,
+    "LON": -75.391449,
+    "Nombre": "tienda394"
   },
   {
     "LAT": -11.834899,
     "LON": -77.151039,
-    "Nombre": "tienda379"
+    "Nombre": "tienda395"
   },
   {
     "LAT": -11.9905285,
     "LON": -77.0812354,
-    "Nombre": "tienda380"
+    "Nombre": "tienda396"
   },
   {
-    "LAT": -12.0482170,
+    "LAT": -12.048217,
     "LON": -75.2207853,
-    "Nombre": "tienda381"
+    "Nombre": "tienda397"
   },
   {
     "LAT": -6.8032089,
     "LON": -79.8306749,
-    "Nombre": "tienda382"
+    "Nombre": "tienda398"
   },
   {
     "LAT": -12.0408735,
     "LON": -75.2274224,
-    "Nombre": "tienda383"
+    "Nombre": "tienda399"
   },
   {
     "LAT": -10.604015,
     "LON": -75.381605,
-    "Nombre": "tienda384"
+    "Nombre": "tienda400"
   },
   {
     "LAT": -6.7994602,
     "LON": -79.8307534,
-    "Nombre": "tienda385"
+    "Nombre": "tienda401"
   },
   {
     "LAT": -8.0956136,
     "LON": -79.0046731,
-    "Nombre": "tienda386"
+    "Nombre": "tienda402"
   },
   {
     "LAT": -10.654577,
     "LON": -75.114796,
-    "Nombre": "tienda387"
+    "Nombre": "tienda403"
   },
   {
     "LAT": -8.0962582,
     "LON": -79.0059977,
-    "Nombre": "tienda388"
+    "Nombre": "tienda404"
   },
   {
     "LAT": -16.4101231,
     "LON": -71.5054591,
-    "Nombre": "tienda389"
+    "Nombre": "tienda405"
   },
   {
     "LAT": -8.1031914,
     "LON": -79.0113726,
-    "Nombre": "tienda390"
+    "Nombre": "tienda406"
   },
   {
     "LAT": -5.1921765,
     "LON": -80.610433,
-    "Nombre": "tienda391"
+    "Nombre": "tienda407"
   },
   {
     "LAT": -16.418034,
     "LON": -71.5098057,
-    "Nombre": "tienda392"
+    "Nombre": "tienda408"
   },
   {
     "LAT": -13.6303026,
     "LON": -72.8739317,
-    "Nombre": "tienda393"
+    "Nombre": "tienda409"
   },
   {
     "LAT": -18.0470544,
     "LON": -70.2604072,
-    "Nombre": "tienda394"
+    "Nombre": "tienda410"
   },
   {
     "LAT": -12.0493305,
     "LON": -77.0129223,
-    "Nombre": "tienda395"
+    "Nombre": "tienda411"
   },
   {
     "LAT": -10.745866,
     "LON": -75.2146,
-    "Nombre": "tienda396"
+    "Nombre": "tienda412"
   },
   {
     "LAT": -5.1912699,
     "LON": -80.6051786,
-    "Nombre": "tienda397"
+    "Nombre": "tienda413"
   },
   {
     "LAT": -12.072313,
     "LON": -77.0278909,
-    "Nombre": "tienda398"
+    "Nombre": "tienda414"
   },
   {
     "LAT": -8.1736713,
     "LON": -78.9981165,
-    "Nombre": "tienda399"
+    "Nombre": "tienda415"
   },
   {
     "LAT": -16.3848647,
     "LON": -71.5137054,
-    "Nombre": "tienda400"
+    "Nombre": "tienda416"
   },
   {
     "LAT": -11.9148437,
     "LON": -77.0344649,
-    "Nombre": "tienda401"
+    "Nombre": "tienda417"
   },
   {
     "LAT": -13.628261,
     "LON": -72.8744764,
-    "Nombre": "tienda402"
+    "Nombre": "tienda418"
   },
   {
     "LAT": -12.0575289,
     "LON": -75.2227443,
-    "Nombre": "tienda403"
+    "Nombre": "tienda419"
   },
   {
     "LAT": -5.1862414,
     "LON": -80.5896823,
-    "Nombre": "tienda404"
+    "Nombre": "tienda420"
   },
   {
     "LAT": -5.1848966,
     "LON": -80.5872459,
-    "Nombre": "tienda405"
+    "Nombre": "tienda421"
   },
   {
     "LAT": -8.1666177,
     "LON": -79.0082705,
-    "Nombre": "tienda406"
+    "Nombre": "tienda422"
   },
   {
     "LAT": -12.0718302,
     "LON": -77.029992,
-    "Nombre": "tienda407"
+    "Nombre": "tienda423"
   },
   {
     "LAT": -5.1817136,
     "LON": -80.575392,
-    "Nombre": "tienda408"
+    "Nombre": "tienda424"
   },
   {
     "LAT": -11.996868,
     "LON": -77.0092098,
-    "Nombre": "tienda409"
+    "Nombre": "tienda425"
   },
   {
     "LAT": -16.4070579,
     "LON": -71.5147375,
-    "Nombre": "tienda410"
+    "Nombre": "tienda426"
   },
   {
     "LAT": -13.624113,
     "LON": -72.8751348,
-    "Nombre": "tienda411"
+    "Nombre": "tienda427"
   },
   {
     "LAT": -5.1742633,
     "LON": -80.5535967,
-    "Nombre": "tienda412"
+    "Nombre": "tienda428"
   },
   {
     "LAT": -12.072378,
     "LON": -77.0267463,
-    "Nombre": "tienda413"
+    "Nombre": "tienda429"
   },
   {
     "LAT": -11.9121701,
     "LON": -77.0045984,
-    "Nombre": "tienda414"
+    "Nombre": "tienda430"
   },
   {
     "LAT": -5.1731347,
     "LON": -80.5468615,
-    "Nombre": "tienda415"
+    "Nombre": "tienda431"
   },
   {
     "LAT": -11.9888908,
     "LON": -77.0102309,
-    "Nombre": "tienda416"
+    "Nombre": "tienda432"
   },
   {
     "LAT": -8.1502245,
     "LON": -79.0114635,
-    "Nombre": "tienda417"
+    "Nombre": "tienda433"
   },
   {
     "LAT": -12.0532856,
     "LON": -75.2432864,
-    "Nombre": "tienda418"
+    "Nombre": "tienda434"
   },
   {
     "LAT": -5.1451835,
     "LON": -80.4493424,
-    "Nombre": "tienda419"
+    "Nombre": "tienda435"
   },
   {
     "LAT": -11.4962646,
     "LON": -77.2092476,
-    "Nombre": "tienda420"
+    "Nombre": "tienda436"
   },
   {
     "LAT": -10.72311,
     "LON": -75.263265,
-    "Nombre": "tienda421"
+    "Nombre": "tienda437"
   },
   {
     "LAT": -16.4059263,
     "LON": -71.515767,
-    "Nombre": "tienda422"
+    "Nombre": "tienda438"
   },
   {
     "LAT": -12.1966014,
     "LON": -77.0104922,
-    "Nombre": "tienda423"
+    "Nombre": "tienda439"
+  },
+  {
+    "LAT": -11.920653,
+    "LON": -77.041743,
+    "Nombre": "tienda440"
   },
   {
     "LAT": -11.5813269,
     "LON": -77.2017077,
-    "Nombre": "tienda424"
+    "Nombre": "tienda441"
   },
   {
     "LAT": -11.5029045,
     "LON": -77.2293107,
-    "Nombre": "tienda425"
+    "Nombre": "tienda442"
   },
   {
     "LAT": -12.064582,
     "LON": -77.0267032,
-    "Nombre": "tienda426"
+    "Nombre": "tienda443"
   },
   {
     "LAT": -12.1951007,
     "LON": -77.0094864,
-    "Nombre": "tienda427"
+    "Nombre": "tienda444"
   },
   {
     "LAT": -11.5799918,
     "LON": -77.2019288,
-    "Nombre": "tienda428"
+    "Nombre": "tienda445"
   },
   {
     "LAT": -13.6533873,
     "LON": -72.9043371,
-    "Nombre": "tienda429"
+    "Nombre": "tienda446"
   },
   {
     "LAT": -11.5010517,
     "LON": -77.2240961,
-    "Nombre": "tienda430"
+    "Nombre": "tienda447"
   },
   {
     "LAT": -11.9484132,
     "LON": -76.9854272,
-    "Nombre": "tienda431"
+    "Nombre": "tienda448"
   },
   {
     "LAT": -12.2061305,
     "LON": -77.010919,
-    "Nombre": "tienda432"
+    "Nombre": "tienda449"
   },
   {
     "LAT": -11.4991761,
     "LON": -77.2184303,
-    "Nombre": "tienda433"
+    "Nombre": "tienda450"
   },
   {
     "LAT": -7.1860915,
     "LON": -76.7346272,
-    "Nombre": "tienda434"
+    "Nombre": "tienda451"
   },
   {
     "LAT": -11.540084,
     "LON": -77.2047723,
-    "Nombre": "tienda435"
+    "Nombre": "tienda452"
   },
   {
     "LAT": -10.8102016,
     "LON": -76.2201843,
-    "Nombre": "tienda436"
+    "Nombre": "tienda453"
   },
   {
     "LAT": -12.1942861,
     "LON": -77.0027249,
-    "Nombre": "tienda437"
+    "Nombre": "tienda454"
   },
   {
     "LAT": -7.1938036,
     "LON": -76.7351133,
-    "Nombre": "tienda438"
+    "Nombre": "tienda455"
   },
   {
     "LAT": -11.5075115,
     "LON": -77.2061451,
-    "Nombre": "tienda439"
+    "Nombre": "tienda456"
   },
   {
     "LAT": -11.4982242,
     "LON": -77.214454,
-    "Nombre": "tienda440"
+    "Nombre": "tienda457"
   },
   {
     "LAT": -12.1428859,
     "LON": -77.0177837,
-    "Nombre": "tienda441"
+    "Nombre": "tienda458"
   },
   {
     "LAT": -11.5023471,
     "LON": -77.2061592,
-    "Nombre": "tienda442"
+    "Nombre": "tienda459"
   },
   {
     "LAT": -12.1390198,
     "LON": -77.0176035,
-    "Nombre": "tienda443"
+    "Nombre": "tienda460"
   },
   {
     "LAT": -12.0635914,
     "LON": -77.020322,
-    "Nombre": "tienda444"
+    "Nombre": "tienda461"
   },
   {
     "LAT": -13.5400336,
     "LON": -72.7461652,
-    "Nombre": "tienda445"
+    "Nombre": "tienda462"
   },
   {
     "LAT": -12.1483264,
     "LON": -76.98607997,
-    "Nombre": "tienda446"
+    "Nombre": "tienda463"
   },
   {
     "LAT": -12.0601671,
     "LON": -77.0484466,
-    "Nombre": "tienda447"
+    "Nombre": "tienda464"
   },
   {
     "LAT": -11.5027185,
     "LON": -77.2059404,
-    "Nombre": "tienda448"
+    "Nombre": "tienda465"
   },
   {
     "LAT": -12.0222291,
     "LON": -77.1048296,
-    "Nombre": "tienda449"
+    "Nombre": "tienda466"
   },
   {
     "LAT": -13.5417396,
     "LON": -72.7110092,
-    "Nombre": "tienda450"
+    "Nombre": "tienda467"
   },
   {
     "LAT": -7.1803012,
     "LON": -76.7305858,
-    "Nombre": "tienda451"
+    "Nombre": "tienda468"
   },
   {
     "LAT": -12.061305,
     "LON": -77.133919,
-    "Nombre": "tienda452"
+    "Nombre": "tienda469"
   },
   {
     "LAT": -12.0213132,
     "LON": -77.1060026,
-    "Nombre": "tienda453"
+    "Nombre": "tienda470"
   },
   {
     "LAT": -13.5417042,
     "LON": -72.7129492,
-    "Nombre": "tienda454"
+    "Nombre": "tienda471"
   },
   {
     "LAT": -12.0668813,
     "LON": -77.0275995,
-    "Nombre": "tienda455"
+    "Nombre": "tienda472"
   },
   {
     "LAT": -13.5390355,
     "LON": -72.6996461,
-    "Nombre": "tienda456"
+    "Nombre": "tienda473"
   },
   {
     "LAT": -12.1342896,
     "LON": -76.9407344,
-    "Nombre": "tienda457"
+    "Nombre": "tienda474"
   },
   {
     "LAT": -11.4855659,
     "LON": -77.2151211,
-    "Nombre": "tienda458"
+    "Nombre": "tienda475"
+  },
+  {
+    "LAT": -7.173622,
+    "LON": -78.512953,
+    "Nombre": "tienda476"
   },
   {
     "LAT": -11.9552601,
     "LON": -77.0604069,
-    "Nombre": "tienda459"
+    "Nombre": "tienda477"
   },
   {
     "LAT": -11.9577288,
     "LON": -77.0608633,
-    "Nombre": "tienda460"
+    "Nombre": "tienda478"
   },
   {
     "LAT": -12.142555,
     "LON": -76.942482,
-    "Nombre": "tienda461"
+    "Nombre": "tienda479"
   },
   {
     "LAT": -11.9594787,
     "LON": -77.0604361,
-    "Nombre": "tienda462"
+    "Nombre": "tienda480"
   },
   {
     "LAT": -12.0105752,
     "LON": -77.0533593,
-    "Nombre": "tienda463"
+    "Nombre": "tienda481"
   },
   {
     "LAT": -13.5266966,
     "LON": -71.9716846,
-    "Nombre": "tienda464"
+    "Nombre": "tienda482"
   },
   {
     "LAT": -5.1044186,
     "LON": -80.163248,
-    "Nombre": "tienda465"
+    "Nombre": "tienda483"
   },
   {
     "LAT": -11.9853193,
     "LON": -77.1006121,
-    "Nombre": "tienda466"
+    "Nombre": "tienda484"
   },
   {
     "LAT": -11.9647352,
     "LON": -77.0922081,
-    "Nombre": "tienda467"
+    "Nombre": "tienda485"
   },
   {
     "LAT": -11.9685517,
     "LON": -77.0974582,
-    "Nombre": "tienda468"
+    "Nombre": "tienda486"
   },
   {
     "LAT": -5.1028471,
     "LON": -80.1678594,
-    "Nombre": "tienda469"
+    "Nombre": "tienda487"
   },
   {
     "LAT": -5.1123404,
     "LON": -80.1727934,
-    "Nombre": "tienda470"
+    "Nombre": "tienda488"
   },
   {
     "LAT": -5.1148705,
     "LON": -80.1726845,
-    "Nombre": "tienda471"
+    "Nombre": "tienda489"
   },
   {
     "LAT": -5.1172624,
     "LON": -80.1729526,
-    "Nombre": "tienda472"
+    "Nombre": "tienda490"
   },
   {
     "LAT": -11.99690904,
     "LON": -76.91757012,
-    "Nombre": "tienda473"
+    "Nombre": "tienda491"
   },
   {
     "LAT": -5.1239047,
     "LON": -80.1734354,
-    "Nombre": "tienda474"
+    "Nombre": "tienda492"
   },
   {
     "LAT": -11.98866614,
     "LON": -76.93480331,
-    "Nombre": "tienda475"
+    "Nombre": "tienda493"
   },
   {
     "LAT": -12.01752471,
     "LON": -76.91082571,
-    "Nombre": "tienda476"
+    "Nombre": "tienda494"
   },
   {
     "LAT": -8.1209749,
     "LON": -79.02082,
-    "Nombre": "tienda477"
+    "Nombre": "tienda495"
   },
   {
     "LAT": -12.0342731,
     "LON": -77.0083208,
-    "Nombre": "tienda478"
+    "Nombre": "tienda496"
   },
   {
     "LAT": -12.0364301,
     "LON": -76.9895239,
-    "Nombre": "tienda479"
+    "Nombre": "tienda497"
   },
   {
     "LAT": -12.0379427,
     "LON": -76.9890929,
-    "Nombre": "tienda480"
+    "Nombre": "tienda498"
   },
   {
     "LAT": -12.03513142,
     "LON": -76.95617113,
-    "Nombre": "tienda481"
+    "Nombre": "tienda499"
   },
   {
     "LAT": -12.0552269,
     "LON": -77.0046925,
-    "Nombre": "tienda482"
+    "Nombre": "tienda500"
   },
   {
     "LAT": -12.03635319,
     "LON": -76.94960083,
-    "Nombre": "tienda483"
+    "Nombre": "tienda501"
   },
   {
     "LAT": -16.4195041,
     "LON": -71.5514859,
-    "Nombre": "tienda484"
+    "Nombre": "tienda502"
   },
   {
     "LAT": -12.04307309,
     "LON": -76.95958953,
-    "Nombre": "tienda485"
+    "Nombre": "tienda503"
   },
   {
     "LAT": -9.1042429,
     "LON": -78.5580999,
-    "Nombre": "tienda486"
+    "Nombre": "tienda504"
   },
   {
     "LAT": -16.4066823,
     "LON": -71.5303435,
-    "Nombre": "tienda487"
+    "Nombre": "tienda505"
   },
   {
     "LAT": -11.9723076,
     "LON": -77.0733018,
-    "Nombre": "tienda488"
+    "Nombre": "tienda506"
   },
   {
     "LAT": -16.3996439,
     "LON": -71.5156438,
-    "Nombre": "tienda489"
+    "Nombre": "tienda507"
   },
   {
     "LAT": -7.110231,
     "LON": -78.5342756,
-    "Nombre": "tienda490"
+    "Nombre": "tienda508"
   },
   {
     "LAT": -9.0487265,
     "LON": -78.5946151,
-    "Nombre": "tienda491"
+    "Nombre": "tienda509"
   },
   {
     "LAT": -7.1328575,
     "LON": -78.5247416,
-    "Nombre": "tienda492"
+    "Nombre": "tienda510"
   },
   {
     "LAT": -9.0514825,
     "LON": -78.5932103,
-    "Nombre": "tienda493"
+    "Nombre": "tienda511"
   },
   {
     "LAT": -12.1302466,
     "LON": -77.0177176,
-    "Nombre": "tienda494"
+    "Nombre": "tienda512"
   },
   {
     "LAT": -11.9880893,
     "LON": -77.0812176,
-    "Nombre": "tienda495"
+    "Nombre": "tienda513"
   },
   {
     "LAT": -16.410449,
     "LON": -71.532938,
-    "Nombre": "tienda496"
+    "Nombre": "tienda514"
   },
   {
     "LAT": -12.06420025,
     "LON": -76.98684823,
-    "Nombre": "tienda497"
+    "Nombre": "tienda515"
   },
   {
     "LAT": -11.9735705,
     "LON": -77.0870678,
-    "Nombre": "tienda498"
+    "Nombre": "tienda516"
   },
   {
     "LAT": -7.128694,
     "LON": -78.523714,
-    "Nombre": "tienda499"
+    "Nombre": "tienda517"
   },
   {
     "LAT": -11.9562569,
     "LON": -77.0688054,
-    "Nombre": "tienda500"
+    "Nombre": "tienda518"
   },
   {
     "LAT": -11.9554951,
     "LON": -77.0687883,
-    "Nombre": "tienda501"
+    "Nombre": "tienda519"
   },
   {
     "LAT": -11.8633436,
     "LON": -77.0154446,
-    "Nombre": "tienda502"
+    "Nombre": "tienda520"
   },
   {
     "LAT": -11.9522361,
     "LON": -77.0702189,
-    "Nombre": "tienda503"
+    "Nombre": "tienda521"
   },
   {
     "LAT": -12.05021585,
     "LON": -76.95278618,
-    "Nombre": "tienda504"
+    "Nombre": "tienda522"
   },
   {
     "LAT": -12.0579962,
     "LON": -76.97122235,
-    "Nombre": "tienda505"
+    "Nombre": "tienda523"
   },
   {
     "LAT": -16.4210767,
     "LON": -71.516445,
-    "Nombre": "tienda506"
+    "Nombre": "tienda524"
   },
   {
     "LAT": -11.896411,
     "LON": -77.047623,
-    "Nombre": "tienda507"
+    "Nombre": "tienda525"
   },
   {
     "LAT": -11.913698,
     "LON": -77.01047,
-    "Nombre": "tienda508"
+    "Nombre": "tienda526"
   },
   {
     "LAT": -5.1979697,
     "LON": -80.6213333,
-    "Nombre": "tienda509"
+    "Nombre": "tienda527"
   },
   {
     "LAT": -5.1923689,
     "LON": -80.641856,
-    "Nombre": "tienda510"
+    "Nombre": "tienda528"
+  },
+  {
+    "LAT": -7.165694,
+    "LON": -78.503333,
+    "Nombre": "tienda529"
   },
   {
     "LAT": -11.956177,
     "LON": -77.087967,
-    "Nombre": "tienda511"
+    "Nombre": "tienda530"
   },
   {
     "LAT": -12.7882998,
     "LON": -74.9700152,
-    "Nombre": "tienda512"
+    "Nombre": "tienda531"
   },
   {
     "LAT": -11.8621248,
     "LON": -77.0319275,
-    "Nombre": "tienda513"
+    "Nombre": "tienda532"
   },
   {
     "LAT": -12.7822666,
     "LON": -74.9623523,
-    "Nombre": "tienda514"
+    "Nombre": "tienda533"
   },
   {
     "LAT": -12.7833419,
     "LON": -74.9577802,
-    "Nombre": "tienda515"
+    "Nombre": "tienda534"
   },
   {
     "LAT": -12.1648845,
     "LON": -76.9450188,
-    "Nombre": "tienda516"
+    "Nombre": "tienda535"
   },
   {
     "LAT": -12.7809112,
     "LON": -74.9529991,
-    "Nombre": "tienda517"
+    "Nombre": "tienda536"
   },
   {
     "LAT": -12.0431313,
     "LON": -75.2272029,
-    "Nombre": "tienda518"
+    "Nombre": "tienda537"
   },
   {
     "LAT": -12.1649349,
     "LON": -76.9455869,
-    "Nombre": "tienda519"
+    "Nombre": "tienda538"
   },
   {
     "LAT": -12.7938783,
     "LON": -74.9457567,
-    "Nombre": "tienda520"
+    "Nombre": "tienda539"
   },
   {
     "LAT": -6.2283531,
     "LON": -77.8611161,
-    "Nombre": "tienda521"
+    "Nombre": "tienda540"
   },
   {
     "LAT": -12.0016927,
     "LON": -77.1060944,
-    "Nombre": "tienda522"
+    "Nombre": "tienda541"
   },
   {
     "LAT": -12.1792154,
     "LON": -76.9439481,
-    "Nombre": "tienda523"
+    "Nombre": "tienda542"
   },
   {
     "LAT": -11.9998103,
     "LON": -77.1026547,
-    "Nombre": "tienda524"
+    "Nombre": "tienda543"
   },
   {
     "LAT": -12.2189259,
     "LON": -76.9070123,
-    "Nombre": "tienda525"
+    "Nombre": "tienda544"
   },
   {
     "LAT": -8.1389657,
     "LON": -79.0552281,
-    "Nombre": "tienda526"
+    "Nombre": "tienda545"
   },
   {
     "LAT": -12.990596,
     "LON": -74.7246017,
-    "Nombre": "tienda527"
+    "Nombre": "tienda546"
   },
   {
     "LAT": -8.1337402,
     "LON": -79.0463391,
-    "Nombre": "tienda528"
+    "Nombre": "tienda547"
+  },
+  {
+    "LAT": -7.16475,
+    "LON": -78.511528,
+    "Nombre": "tienda548"
   },
   {
     "LAT": -12.9949522,
     "LON": -74.7291419,
-    "Nombre": "tienda529"
+    "Nombre": "tienda549"
   },
   {
     "LAT": -7.1365594,
     "LON": -78.4754903,
-    "Nombre": "tienda530"
+    "Nombre": "tienda550"
   },
   {
     "LAT": -7.1365298,
     "LON": -78.4757392,
-    "Nombre": "tienda531"
+    "Nombre": "tienda551"
   },
   {
     "LAT": -7.1365298,
     "LON": -78.4757392,
-    "Nombre": "tienda532"
+    "Nombre": "tienda552"
   },
   {
     "LAT": -6.2352457,
     "LON": -77.868324,
-    "Nombre": "tienda533"
+    "Nombre": "tienda553"
   },
   {
     "LAT": -8.1361186,
     "LON": -79.0412561,
-    "Nombre": "tienda534"
+    "Nombre": "tienda554"
   },
   {
     "LAT": -7.1471273,
     "LON": -78.5009434,
-    "Nombre": "tienda535"
+    "Nombre": "tienda555"
   },
   {
     "LAT": -9.0846188,
     "LON": -78.5775599,
-    "Nombre": "tienda536"
+    "Nombre": "tienda556"
   },
   {
     "LAT": -6.2372518,
     "LON": -77.8705687,
-    "Nombre": "tienda537"
+    "Nombre": "tienda557"
   },
   {
     "LAT": -13.0736921,
     "LON": -74.8347898,
-    "Nombre": "tienda538"
+    "Nombre": "tienda558"
   },
   {
     "LAT": -9.0781475,
     "LON": -78.5824126,
-    "Nombre": "tienda539"
+    "Nombre": "tienda559"
   },
   {
     "LAT": -9.0944677,
     "LON": -78.5651109,
-    "Nombre": "tienda540"
+    "Nombre": "tienda560"
   },
   {
     "LAT": -12.1412623,
     "LON": -76.9394884,
-    "Nombre": "tienda541"
+    "Nombre": "tienda561"
   },
   {
     "LAT": -6.2373202,
     "LON": -77.8705484,
-    "Nombre": "tienda542"
+    "Nombre": "tienda562"
   },
   {
     "LAT": -12.9607471,
     "LON": -74.7781423,
-    "Nombre": "tienda543"
+    "Nombre": "tienda563"
   },
   {
     "LAT": -12.0747525,
     "LON": -77.0219806,
-    "Nombre": "tienda544"
+    "Nombre": "tienda564"
   },
   {
     "LAT": -11.7677126,
     "LON": -75.4845426,
-    "Nombre": "tienda545"
+    "Nombre": "tienda565"
   },
   {
     "LAT": -12.7823761,
     "LON": -74.992878,
-    "Nombre": "tienda546"
+    "Nombre": "tienda566"
   },
   {
     "LAT": -12.7866967,
     "LON": -74.9882543,
-    "Nombre": "tienda547"
+    "Nombre": "tienda567"
   },
   {
     "LAT": -12.1614502,
     "LON": -76.9565095,
-    "Nombre": "tienda548"
+    "Nombre": "tienda568"
   },
   {
     "LAT": -11.7786597,
     "LON": -75.4945189,
-    "Nombre": "tienda549"
+    "Nombre": "tienda569"
   },
   {
     "LAT": -5.6395456,
     "LON": -78.5149339,
-    "Nombre": "tienda550"
+    "Nombre": "tienda570"
   },
   {
     "LAT": -12.1505814,
     "LON": -76.9675035,
-    "Nombre": "tienda551"
+    "Nombre": "tienda571"
   },
   {
     "LAT": -12.0241293,
     "LON": -76.9883108,
-    "Nombre": "tienda552"
+    "Nombre": "tienda572"
   },
   {
     "LAT": -12.771578,
     "LON": -74.9261748,
-    "Nombre": "tienda553"
+    "Nombre": "tienda573"
   },
   {
     "LAT": -12.088567,
     "LON": -77.0102106,
-    "Nombre": "tienda554"
+    "Nombre": "tienda574"
   },
   {
     "LAT": -11.8858234,
     "LON": -75.3496752,
-    "Nombre": "tienda555"
+    "Nombre": "tienda575"
   },
   {
     "LAT": -12.0244865,
     "LON": -76.9821697,
-    "Nombre": "tienda556"
+    "Nombre": "tienda576"
   },
   {
     "LAT": -9.9318771,
     "LON": -76.2467866,
-    "Nombre": "tienda557"
+    "Nombre": "tienda577"
   },
   {
     "LAT": -12.0238802,
     "LON": -76.9738212,
-    "Nombre": "tienda558"
+    "Nombre": "tienda578"
   },
   {
     "LAT": -9.9337135,
     "LON": -76.2498665,
-    "Nombre": "tienda559"
+    "Nombre": "tienda579"
   },
   {
     "LAT": -12.0250013,
     "LON": -76.9707013,
-    "Nombre": "tienda560"
+    "Nombre": "tienda580"
   },
   {
     "LAT": -12.0780009,
     "LON": -77.0119532,
-    "Nombre": "tienda561"
+    "Nombre": "tienda581"
   },
   {
     "LAT": -5.6325177,
     "LON": -78.5570106,
-    "Nombre": "tienda562"
+    "Nombre": "tienda582"
   },
   {
     "LAT": -12.0205149,
     "LON": -76.9581115,
-    "Nombre": "tienda563"
+    "Nombre": "tienda583"
   },
   {
     "LAT": -5.2052553,
     "LON": -80.6247473,
-    "Nombre": "tienda564"
+    "Nombre": "tienda584"
   },
   {
     "LAT": -9.9156702,
     "LON": -76.2364676,
-    "Nombre": "tienda565"
+    "Nombre": "tienda585"
   },
   {
     "LAT": -12.0195125,
     "LON": -76.9530254,
-    "Nombre": "tienda566"
+    "Nombre": "tienda586"
   },
   {
     "LAT": -5.2113359,
     "LON": -80.622297,
-    "Nombre": "tienda567"
+    "Nombre": "tienda587"
   },
   {
     "LAT": -5.6346356,
     "LON": -78.5506654,
-    "Nombre": "tienda568"
+    "Nombre": "tienda588"
   },
   {
     "LAT": -12.5724226,
     "LON": -74.9547827,
-    "Nombre": "tienda569"
+    "Nombre": "tienda589"
   },
   {
     "LAT": -5.2108036,
     "LON": -80.623606,
-    "Nombre": "tienda570"
+    "Nombre": "tienda590"
   },
   {
     "LAT": -9.9358121,
     "LON": -76.243499,
-    "Nombre": "tienda571"
+    "Nombre": "tienda591"
   },
   {
     "LAT": -9.9376042,
     "LON": -76.2460716,
-    "Nombre": "tienda572"
+    "Nombre": "tienda592"
   },
   {
     "LAT": -12.0088418,
     "LON": -75.2476024,
-    "Nombre": "tienda573"
+    "Nombre": "tienda593"
   },
   {
     "LAT": -12.5807343,
     "LON": -74.9521822,
-    "Nombre": "tienda574"
+    "Nombre": "tienda594"
   },
   {
     "LAT": -5.6300626,
     "LON": -78.5379613,
-    "Nombre": "tienda575"
+    "Nombre": "tienda595"
   },
   {
     "LAT": -12.5701398,
     "LON": -74.95145,
-    "Nombre": "tienda576"
+    "Nombre": "tienda596"
   },
   {
     "LAT": -5.6300558,
     "LON": -78.5379657,
-    "Nombre": "tienda577"
+    "Nombre": "tienda597"
   },
   {
     "LAT": -9.9438224,
     "LON": -76.2395943,
-    "Nombre": "tienda578"
+    "Nombre": "tienda598"
   },
   {
     "LAT": -12.0648817,
     "LON": -77.0448667,
-    "Nombre": "tienda579"
+    "Nombre": "tienda599"
   },
   {
     "LAT": -11.9688204,
     "LON": -77.0023656,
-    "Nombre": "tienda580"
+    "Nombre": "tienda600"
   },
   {
     "LAT": -9.9309011,
     "LON": -76.2336134,
-    "Nombre": "tienda581"
+    "Nombre": "tienda601"
   },
   {
     "LAT": -9.9262542,
     "LON": -76.2331628,
-    "Nombre": "tienda582"
+    "Nombre": "tienda602"
   },
   {
     "LAT": -5.6367688,
     "LON": -78.528395,
-    "Nombre": "tienda583"
+    "Nombre": "tienda603"
   },
   {
     "LAT": -9.9189081,
     "LON": -76.2323043,
-    "Nombre": "tienda584"
+    "Nombre": "tienda604"
   },
   {
     "LAT": -9.916102,
     "LON": -76.2318594,
-    "Nombre": "tienda585"
+    "Nombre": "tienda605"
   },
   {
     "LAT": -12.0766043,
     "LON": -77.0341771,
-    "Nombre": "tienda586"
+    "Nombre": "tienda606"
   },
   {
     "LAT": -9.9396313,
     "LON": -76.2560694,
-    "Nombre": "tienda587"
+    "Nombre": "tienda607"
   },
   {
     "LAT": -16.4085898,
     "LON": -71.5402729,
-    "Nombre": "tienda588"
+    "Nombre": "tienda608"
   },
   {
     "LAT": -13.0769803,
     "LON": -76.3916209,
-    "Nombre": "tienda589"
+    "Nombre": "tienda609"
   },
   {
     "LAT": -12.0733768,
     "LON": -77.0371678,
-    "Nombre": "tienda590"
+    "Nombre": "tienda610"
   },
   {
     "LAT": -12.499051,
     "LON": -74.9979073,
-    "Nombre": "tienda591"
+    "Nombre": "tienda611"
   },
   {
     "LAT": -16.3909942,
     "LON": -71.5282137,
-    "Nombre": "tienda592"
+    "Nombre": "tienda612"
   },
   {
     "LAT": -12.0758351,
     "LON": -77.0346892,
-    "Nombre": "tienda593"
+    "Nombre": "tienda613"
   },
   {
     "LAT": -13.076757,
     "LON": -76.392839,
-    "Nombre": "tienda594"
+    "Nombre": "tienda614"
   },
   {
     "LAT": -12.11043563,
     "LON": -76.9796528,
-    "Nombre": "tienda595"
+    "Nombre": "tienda615"
   },
   {
     "LAT": -12.3563094,
     "LON": -75.0602326,
-    "Nombre": "tienda596"
+    "Nombre": "tienda616"
   },
   {
     "LAT": -16.3972801,
     "LON": -71.5252435,
-    "Nombre": "tienda597"
+    "Nombre": "tienda617"
   },
   {
     "LAT": -12.3129643,
     "LON": -75.0798982,
-    "Nombre": "tienda598"
+    "Nombre": "tienda618"
   },
   {
     "LAT": -9.9373908,
     "LON": -76.2551568,
-    "Nombre": "tienda599"
+    "Nombre": "tienda619"
   },
   {
     "LAT": -12.07209823,
     "LON": -76.98140267,
-    "Nombre": "tienda600"
+    "Nombre": "tienda620"
   },
   {
     "LAT": -13.0744177,
     "LON": -76.3258169,
-    "Nombre": "tienda601"
+    "Nombre": "tienda621"
   },
   {
     "LAT": -9.9561085,
     "LON": -76.2479126,
-    "Nombre": "tienda602"
+    "Nombre": "tienda622"
   },
   {
     "LAT": -12.0620385,
     "LON": -77.0292947,
-    "Nombre": "tienda603"
+    "Nombre": "tienda623"
   },
   {
     "LAT": -10.0012757,
     "LON": -76.2402437,
-    "Nombre": "tienda604"
+    "Nombre": "tienda624"
   },
   {
     "LAT": -10.0044447,
     "LON": -76.2394027,
-    "Nombre": "tienda605"
+    "Nombre": "tienda625"
   },
   {
     "LAT": -12.3810993,
     "LON": -74.8541146,
-    "Nombre": "tienda606"
+    "Nombre": "tienda626"
   },
   {
     "LAT": -10.0133417,
     "LON": -76.2354833,
-    "Nombre": "tienda607"
+    "Nombre": "tienda627"
   },
   {
     "LAT": -10.0223385,
     "LON": -76.2334856,
-    "Nombre": "tienda608"
+    "Nombre": "tienda628"
   },
   {
     "LAT": -9.989941,
     "LON": -76.2433858,
-    "Nombre": "tienda609"
+    "Nombre": "tienda629"
   },
   {
     "LAT": -12.3689557,
     "LON": -74.8459386,
-    "Nombre": "tienda610"
+    "Nombre": "tienda630"
   },
   {
     "LAT": -9.9708743,
     "LON": -76.2431873,
-    "Nombre": "tienda611"
+    "Nombre": "tienda631"
   },
   {
     "LAT": -5.7774065,
     "LON": -78.4038968,
-    "Nombre": "tienda612"
+    "Nombre": "tienda632"
   },
   {
     "LAT": -12.3750593,
     "LON": -74.8502805,
-    "Nombre": "tienda613"
+    "Nombre": "tienda633"
   },
   {
     "LAT": -9.9430692,
     "LON": -76.2388304,
-    "Nombre": "tienda614"
+    "Nombre": "tienda634"
   },
   {
     "LAT": -5.7750091,
     "LON": -78.4098116,
-    "Nombre": "tienda615"
+    "Nombre": "tienda635"
   },
   {
     "LAT": -12.3918053,
     "LON": -74.8603015,
-    "Nombre": "tienda616"
+    "Nombre": "tienda636"
   },
   {
     "LAT": -12.3939102,
     "LON": -74.8612806,
-    "Nombre": "tienda617"
+    "Nombre": "tienda637"
   },
   {
     "LAT": -12.30712266,
     "LON": -76.8394017,
-    "Nombre": "tienda618"
+    "Nombre": "tienda638"
   },
   {
     "LAT": -8.3827651,
     "LON": -74.536467,
-    "Nombre": "tienda619"
+    "Nombre": "tienda639"
   },
   {
     "LAT": -9.9209323,
     "LON": -76.2321932,
-    "Nombre": "tienda620"
+    "Nombre": "tienda640"
   },
   {
     "LAT": -8.3794585,
     "LON": -74.5364303,
-    "Nombre": "tienda621"
+    "Nombre": "tienda641"
   },
   {
     "LAT": -9.9214105,
     "LON": -76.2323761,
-    "Nombre": "tienda622"
+    "Nombre": "tienda642"
   },
   {
     "LAT": -9.8944522,
     "LON": -76.2211229,
-    "Nombre": "tienda623"
+    "Nombre": "tienda643"
   },
   {
     "LAT": -12.4054917,
     "LON": -74.6757949,
-    "Nombre": "tienda624"
+    "Nombre": "tienda644"
   },
   {
     "LAT": -8.3798081,
     "LON": -74.5364768,
-    "Nombre": "tienda625"
+    "Nombre": "tienda645"
   },
   {
     "LAT": -9.9313844,
     "LON": -76.2515048,
-    "Nombre": "tienda626"
+    "Nombre": "tienda646"
   },
   {
     "LAT": -12.4099379,
     "LON": -74.679707,
-    "Nombre": "tienda627"
+    "Nombre": "tienda647"
   },
   {
     "LAT": -9.8847358,
     "LON": -76.221623,
-    "Nombre": "tienda628"
+    "Nombre": "tienda648"
   },
   {
     "LAT": -8.3797798,
     "LON": -74.5306833,
-    "Nombre": "tienda629"
+    "Nombre": "tienda649"
   },
   {
     "LAT": -8.3734708,
     "LON": -74.528343,
-    "Nombre": "tienda630"
+    "Nombre": "tienda650"
   },
   {
     "LAT": -8.3827521,
     "LON": -74.5403319,
-    "Nombre": "tienda631"
+    "Nombre": "tienda651"
   },
   {
     "LAT": -8.3835736,
     "LON": -74.5427261,
-    "Nombre": "tienda632"
+    "Nombre": "tienda652"
   },
   {
     "LAT": -8.3857119,
     "LON": -74.5434801,
-    "Nombre": "tienda633"
+    "Nombre": "tienda653"
   },
   {
     "LAT": -8.3881002,
     "LON": -74.544428,
-    "Nombre": "tienda634"
+    "Nombre": "tienda654"
   },
   {
     "LAT": -8.3910709,
     "LON": -74.5476542,
-    "Nombre": "tienda635"
+    "Nombre": "tienda655"
   },
   {
     "LAT": -8.3844996,
     "LON": -74.5498515,
-    "Nombre": "tienda636"
+    "Nombre": "tienda656"
   },
   {
     "LAT": -8.3833249,
     "LON": -74.5554312,
-    "Nombre": "tienda637"
+    "Nombre": "tienda657"
   },
   {
     "LAT": -12.17117455,
     "LON": -76.99192938,
-    "Nombre": "tienda638"
+    "Nombre": "tienda658"
   },
   {
     "LAT": -8.3931221,
     "LON": -74.5639848,
-    "Nombre": "tienda639"
+    "Nombre": "tienda659"
   },
   {
     "LAT": -8.3828863,
     "LON": -74.5693952,
-    "Nombre": "tienda640"
+    "Nombre": "tienda660"
   },
   {
     "LAT": -8.3916451,
     "LON": -74.5816502,
-    "Nombre": "tienda641"
+    "Nombre": "tienda661"
   },
   {
     "LAT": -8.3930856,
     "LON": -74.5826376,
-    "Nombre": "tienda642"
+    "Nombre": "tienda662"
   },
   {
     "LAT": -8.3927848,
     "LON": -74.5845932,
-    "Nombre": "tienda643"
+    "Nombre": "tienda663"
   },
   {
     "LAT": -12.25942587,
     "LON": -76.88538377,
-    "Nombre": "tienda644"
+    "Nombre": "tienda664"
   },
   {
     "LAT": -8.3836221,
     "LON": -74.5363252,
-    "Nombre": "tienda645"
+    "Nombre": "tienda665"
+  },
+  {
+    "LAT": -7.804754,
+    "LON": -77.994315,
+    "Nombre": "tienda666"
   },
   {
     "LAT": -17.2086107,
     "LON": -70.924772,
-    "Nombre": "tienda646"
+    "Nombre": "tienda667"
   },
   {
     "LAT": -8.396264,
     "LON": -74.5951347,
-    "Nombre": "tienda647"
+    "Nombre": "tienda668"
   },
   {
     "LAT": -8.0011007,
     "LON": -79.0716686,
-    "Nombre": "tienda648"
+    "Nombre": "tienda669"
   },
   {
     "LAT": -5.7572119,
     "LON": -78.4364289,
-    "Nombre": "tienda649"
+    "Nombre": "tienda670"
   },
   {
     "LAT": -17.0767118,
     "LON": -70.8441779,
-    "Nombre": "tienda650"
+    "Nombre": "tienda671"
   },
   {
     "LAT": -8.3966234,
     "LON": -74.5966512,
-    "Nombre": "tienda651"
+    "Nombre": "tienda672"
   },
   {
     "LAT": -8.397294,
     "LON": -74.5967401,
-    "Nombre": "tienda652"
+    "Nombre": "tienda673"
   },
   {
     "LAT": -17.0750086,
     "LON": -70.843629,
-    "Nombre": "tienda653"
+    "Nombre": "tienda674"
   },
   {
     "LAT": -5.7640518,
     "LON": -78.4242929,
-    "Nombre": "tienda654"
+    "Nombre": "tienda675"
   },
   {
     "LAT": -17.1765701,
     "LON": -70.8958877,
-    "Nombre": "tienda655"
+    "Nombre": "tienda676"
   },
   {
     "LAT": -7.8738812,
     "LON": -79.1327949,
-    "Nombre": "tienda656"
+    "Nombre": "tienda677"
   },
   {
     "LAT": -8.397679,
     "LON": -74.6043939,
-    "Nombre": "tienda657"
+    "Nombre": "tienda678"
   },
   {
     "LAT": -17.1888827,
     "LON": -70.9279515,
-    "Nombre": "tienda658"
+    "Nombre": "tienda679"
+  },
+  {
+    "LAT": -7.147135,
+    "LON": -78.524294,
+    "Nombre": "tienda680"
   },
   {
     "LAT": -12.0300072,
     "LON": -76.9994067,
-    "Nombre": "tienda659"
+    "Nombre": "tienda681"
   },
   {
     "LAT": -12.037767,
     "LON": -76.9973958,
-    "Nombre": "tienda660"
+    "Nombre": "tienda682"
   },
   {
     "LAT": -8.3991867,
     "LON": -74.6068433,
-    "Nombre": "tienda661"
+    "Nombre": "tienda683"
   },
   {
     "LAT": -17.1929561,
     "LON": -70.9293245,
-    "Nombre": "tienda662"
+    "Nombre": "tienda684"
   },
   {
     "LAT": -8.3996311,
     "LON": -74.6122751,
-    "Nombre": "tienda663"
+    "Nombre": "tienda685"
   },
   {
     "LAT": -17.1872834,
     "LON": -70.9515434,
-    "Nombre": "tienda664"
+    "Nombre": "tienda686"
   },
   {
     "LAT": -17.1960319,
     "LON": -70.9461568,
-    "Nombre": "tienda665"
+    "Nombre": "tienda687"
   },
   {
     "LAT": -5.7587411,
     "LON": -78.4297332,
-    "Nombre": "tienda666"
+    "Nombre": "tienda688"
   },
   {
     "LAT": -8.3996313,
     "LON": -74.6122814,
-    "Nombre": "tienda667"
+    "Nombre": "tienda689"
   },
   {
     "LAT": -8.0636088,
     "LON": -79.0215621,
-    "Nombre": "tienda668"
+    "Nombre": "tienda690"
   },
   {
     "LAT": -7.1646612,
     "LON": -78.4751232,
-    "Nombre": "tienda669"
+    "Nombre": "tienda691"
   },
   {
     "LAT": -17.1950153,
     "LON": -70.9557504,
-    "Nombre": "tienda670"
+    "Nombre": "tienda692"
   },
   {
     "LAT": -7.1653292,
     "LON": -78.4741123,
-    "Nombre": "tienda671"
+    "Nombre": "tienda693"
   },
   {
     "LAT": -5.7585637,
     "LON": -78.4301753,
-    "Nombre": "tienda672"
+    "Nombre": "tienda694"
   },
   {
     "LAT": -17.2146191,
     "LON": -70.9456245,
-    "Nombre": "tienda673"
+    "Nombre": "tienda695"
   },
   {
     "LAT": -5.7582907,
     "LON": -78.4314761,
-    "Nombre": "tienda674"
+    "Nombre": "tienda696"
   },
   {
     "LAT": -6.8023563,
     "LON": -79.8303723,
-    "Nombre": "tienda675"
+    "Nombre": "tienda697"
   },
   {
     "LAT": -5.7574751,
     "LON": -78.435734,
-    "Nombre": "tienda676"
+    "Nombre": "tienda698"
+  },
+  {
+    "LAT": -7.221378,
+    "LON": -78.426639,
+    "Nombre": "tienda699"
+  },
+  {
+    "LAT": -7.191194,
+    "LON": -78.509806,
+    "Nombre": "tienda700"
   },
   {
     "LAT": -6.8004821,
     "LON": -79.8337053,
-    "Nombre": "tienda677"
+    "Nombre": "tienda701"
   },
   {
     "LAT": -6.7911744,
     "LON": -79.8413974,
-    "Nombre": "tienda678"
+    "Nombre": "tienda702"
   },
   {
     "LAT": -17.6609803,
     "LON": -71.329497,
-    "Nombre": "tienda679"
+    "Nombre": "tienda703"
   },
   {
     "LAT": -17.650788,
     "LON": -71.3296162,
-    "Nombre": "tienda680"
+    "Nombre": "tienda704"
   },
   {
     "LAT": -5.7533851,
     "LON": -78.4460365,
-    "Nombre": "tienda681"
+    "Nombre": "tienda705"
   },
   {
     "LAT": -5.7498554,
     "LON": -78.4495024,
-    "Nombre": "tienda682"
+    "Nombre": "tienda706"
   },
   {
     "LAT": -17.6618001,
     "LON": -71.3186316,
-    "Nombre": "tienda683"
+    "Nombre": "tienda707"
   },
   {
     "LAT": -5.7496629,
     "LON": -78.4496627,
-    "Nombre": "tienda684"
+    "Nombre": "tienda708"
   },
   {
     "LAT": -5.7445465,
     "LON": -78.454454,
-    "Nombre": "tienda685"
+    "Nombre": "tienda709"
   },
   {
     "LAT": -5.7445285,
     "LON": -78.4544879,
-    "Nombre": "tienda686"
+    "Nombre": "tienda710"
   },
   {
     "LAT": -5.7389243,
     "LON": -78.4612882,
-    "Nombre": "tienda687"
+    "Nombre": "tienda711"
+  },
+  {
+    "LAT": -7.142922,
+    "LON": -78.518151,
+    "Nombre": "tienda712"
   },
   {
     "LAT": -17.6198532,
     "LON": -71.3416022,
-    "Nombre": "tienda688"
+    "Nombre": "tienda713"
   },
   {
     "LAT": -5.7619873,
     "LON": -78.4267077,
-    "Nombre": "tienda689"
+    "Nombre": "tienda714"
   },
   {
     "LAT": -17.6269942,
     "LON": -71.3423763,
-    "Nombre": "tienda690"
+    "Nombre": "tienda715"
   },
   {
     "LAT": -12.0593423,
     "LON": -75.2111851,
-    "Nombre": "tienda691"
+    "Nombre": "tienda716"
   },
   {
     "LAT": -12.0750743,
     "LON": -75.2069715,
-    "Nombre": "tienda692"
+    "Nombre": "tienda717"
   },
   {
     "LAT": -8.1082547,
     "LON": -79.0474533,
-    "Nombre": "tienda693"
+    "Nombre": "tienda718"
   },
   {
     "LAT": -12.0370673,
     "LON": -75.1914274,
-    "Nombre": "tienda694"
+    "Nombre": "tienda719"
   },
   {
     "LAT": -6.7795609,
     "LON": -79.84983,
-    "Nombre": "tienda695"
+    "Nombre": "tienda720"
   },
   {
     "LAT": -6.7695019,
     "LON": -79.8518473,
-    "Nombre": "tienda696"
+    "Nombre": "tienda721"
   },
   {
     "LAT": -6.7480314,
     "LON": -79.8328946,
-    "Nombre": "tienda697"
+    "Nombre": "tienda722"
   },
   {
     "LAT": -6.7569503,
     "LON": -79.820607,
-    "Nombre": "tienda698"
+    "Nombre": "tienda723"
   },
   {
     "LAT": -6.7557899,
     "LON": -79.838807,
-    "Nombre": "tienda699"
+    "Nombre": "tienda724"
   },
   {
     "LAT": -15.8307971,
     "LON": -70.0193404,
-    "Nombre": "tienda700"
+    "Nombre": "tienda725"
   },
   {
     "LAT": -15.8300687,
     "LON": -70.0291111,
-    "Nombre": "tienda701"
+    "Nombre": "tienda726"
   },
   {
     "LAT": -15.8484704,
     "LON": -70.0147472,
-    "Nombre": "tienda702"
+    "Nombre": "tienda727"
   },
   {
     "LAT": -15.853011,
     "LON": -70.0136122,
-    "Nombre": "tienda703"
+    "Nombre": "tienda728"
   },
   {
     "LAT": -15.8540878,
     "LON": -70.0116428,
-    "Nombre": "tienda704"
+    "Nombre": "tienda729"
   },
   {
     "LAT": -15.8566608,
     "LON": -70.0089905,
-    "Nombre": "tienda705"
+    "Nombre": "tienda730"
   },
   {
     "LAT": -15.8634684,
     "LON": -69.9993054,
-    "Nombre": "tienda706"
+    "Nombre": "tienda731"
   },
   {
     "LAT": -15.8648997,
     "LON": -69.9966693,
-    "Nombre": "tienda707"
+    "Nombre": "tienda732"
   },
   {
     "LAT": -12.592762,
     "LON": -69.2268892,
-    "Nombre": "tienda708"
+    "Nombre": "tienda733"
   },
   {
     "LAT": -12.592717,
     "LON": -69.226055,
-    "Nombre": "tienda709"
+    "Nombre": "tienda734"
   },
   {
     "LAT": -12.5917815,
     "LON": -69.2235241,
-    "Nombre": "tienda710"
+    "Nombre": "tienda735"
   },
   {
     "LAT": -12.591856,
     "LON": -69.2229744,
-    "Nombre": "tienda711"
+    "Nombre": "tienda736"
   },
   {
     "LAT": -12.5909146,
     "LON": -69.2225399,
-    "Nombre": "tienda712"
+    "Nombre": "tienda737"
   },
   {
     "LAT": -12.5898758,
     "LON": -69.2210408,
-    "Nombre": "tienda713"
+    "Nombre": "tienda738"
   },
   {
     "LAT": -12.589589,
     "LON": -69.22104,
-    "Nombre": "tienda714"
+    "Nombre": "tienda739"
   },
   {
     "LAT": -12.5849199,
     "LON": -69.216946,
-    "Nombre": "tienda715"
+    "Nombre": "tienda740"
   },
   {
     "LAT": -12.5855921,
     "LON": -69.2159737,
-    "Nombre": "tienda716"
+    "Nombre": "tienda741"
   },
   {
     "LAT": -12.5839638,
     "LON": -69.2111212,
-    "Nombre": "tienda717"
+    "Nombre": "tienda742"
   },
   {
     "LAT": -15.8609245,
     "LON": -70.001406,
-    "Nombre": "tienda718"
+    "Nombre": "tienda743"
   },
   {
     "LAT": -15.8287221,
     "LON": -70.0164808,
-    "Nombre": "tienda719"
+    "Nombre": "tienda744"
   },
   {
     "LAT": -15.8188063,
     "LON": -70.042374,
-    "Nombre": "tienda720"
+    "Nombre": "tienda745"
   },
   {
     "LAT": -12.5809202,
     "LON": -69.2011843,
-    "Nombre": "tienda721"
+    "Nombre": "tienda746"
   },
   {
     "LAT": -12.5818052,
     "LON": -69.1965035,
-    "Nombre": "tienda722"
+    "Nombre": "tienda747"
   },
   {
     "LAT": -12.582304,
     "LON": -69.1953432,
-    "Nombre": "tienda723"
+    "Nombre": "tienda748"
   },
   {
     "LAT": -12.5877673,
     "LON": -69.1895889,
-    "Nombre": "tienda724"
+    "Nombre": "tienda749"
   },
   {
     "LAT": -12.5874219,
     "LON": -69.1880061,
-    "Nombre": "tienda725"
+    "Nombre": "tienda750"
   },
   {
     "LAT": -12.5897459,
     "LON": -69.1853881,
-    "Nombre": "tienda726"
+    "Nombre": "tienda751"
   },
   {
     "LAT": -12.5933327,
     "LON": -69.1819476,
-    "Nombre": "tienda727"
+    "Nombre": "tienda752"
   },
   {
     "LAT": -12.5937334,
     "LON": -69.1819911,
-    "Nombre": "tienda728"
+    "Nombre": "tienda753"
   },
   {
     "LAT": -12.5814607,
     "LON": -69.1981714,
-    "Nombre": "tienda729"
+    "Nombre": "tienda754"
   },
   {
     "LAT": -12.5837672,
     "LON": -69.2028498,
-    "Nombre": "tienda730"
+    "Nombre": "tienda755"
   },
   {
     "LAT": -15.4869561,
     "LON": -70.1264029,
-    "Nombre": "tienda731"
+    "Nombre": "tienda756"
   },
   {
     "LAT": -12.5851674,
     "LON": -69.2022713,
-    "Nombre": "tienda732"
+    "Nombre": "tienda757"
   },
   {
     "LAT": -15.4912981,
     "LON": -70.1329364,
-    "Nombre": "tienda733"
+    "Nombre": "tienda758"
   },
   {
     "LAT": -15.4948008,
     "LON": -70.1408161,
-    "Nombre": "tienda734"
+    "Nombre": "tienda759"
   },
   {
     "LAT": -12.6002484,
     "LON": -69.2045546,
-    "Nombre": "tienda735"
+    "Nombre": "tienda760"
   },
   {
     "LAT": -15.4933684,
     "LON": -70.1449956,
-    "Nombre": "tienda736"
+    "Nombre": "tienda761"
   },
   {
     "LAT": -12.6006333,
     "LON": -69.2051107,
-    "Nombre": "tienda737"
-  },
-  {
-    "LAT": -16.4340115,
-    "LON": -71.5267452,
-    "Nombre": "tienda738"
+    "Nombre": "tienda762"
   },
   {
     "LAT": -12.596808,
     "LON": -69.1921737,
-    "Nombre": "tienda739"
+    "Nombre": "tienda763"
   },
   {
     "LAT": -12.5939696,
     "LON": -69.1889163,
-    "Nombre": "tienda740"
+    "Nombre": "tienda764"
   },
   {
     "LAT": -12.5945706,
     "LON": -69.1884116,
-    "Nombre": "tienda741"
+    "Nombre": "tienda765"
   },
   {
     "LAT": -15.4762659,
     "LON": -70.1161054,
-    "Nombre": "tienda742"
+    "Nombre": "tienda766"
   },
   {
     "LAT": -6.767653,
     "LON": -79.8417322,
-    "Nombre": "tienda743"
+    "Nombre": "tienda767"
   }
 ]
