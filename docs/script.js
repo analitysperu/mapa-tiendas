@@ -26,12 +26,16 @@ fetch("./LOCFULL.json")
 function drawMarkers(searchText) {
   cluster.clearLayers();
 
-  let firstMatch = null; 
+  let firstMatch = null;
+  const query = searchText.toLowerCase();
+
 
   allData.forEach(p => {
     if (p.LAT && p.LON && p.NOMBRE) {
+      const name = p.NOMBRE.toLowerCase();
+
       // If search is empty, show all; otherwise only exact matches
-      if (!searchText || p.NOMBRE.toLowerCase() === searchText.toLowerCase()) {
+      if (!query || name.includes(query)) {
         const marker = L.marker([p.LAT, p.LON]);
         marker.bindPopup(`
           <b>${p.NOMBRE}</b><br>
