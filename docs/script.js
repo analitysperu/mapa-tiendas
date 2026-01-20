@@ -29,12 +29,12 @@ function drawMarkers(searchText) {
   let firstMatch = null; 
 
   allData.forEach(p => {
-    if (p.LAT && p.LON && p.Nombre) {
+    if (p.LAT && p.LON && p.NOMBRE) {
       // If search is empty, show all; otherwise only exact matches
-      if (!searchText || p.Nombre.toLowerCase() === searchText.toLowerCase()) {
+      if (!searchText || p.NOMBRE.toLowerCase() === searchText.toLowerCase()) {
         const marker = L.marker([p.LAT, p.LON]);
         marker.bindPopup(`
-          <b>${p.Nombre}</b><br>
+          <b>${p.NOMBRE}</b><br>
           Lat: ${p.LAT}<br>
           Lon: ${p.LON}
         `);
